@@ -1,0 +1,619 @@
+{
+  "slug": "ca-los-angeles",
+  "city": "Los Angeles",
+  "citySlug": "los-angeles",
+  "state": "CA",
+  "stateName": "California",
+  "focus": "Central and South Los Angeles, Hollywood, and nearby neighborhoods, plus one clearly labeled Beverly Hills office",
+  "lastUpdated": "2026-11-18",
+  "intro": "This first Los Angeles page covers official truck-rental locations and labor-only movers whose own public pages list an address in Los Angeles or, in one clearly labeled case, a Beverly Hills office that publishes service across Los Angeles County. It is not a complete citywide inventory, and it does not report live truck counts. One-way and cargo-van flags are on only when the location page mentions those services. If a day’s hours were missing, they are marked “Not published,” not guessed as closed. If you already have a truck or container, use the labor-only filter or the HireAHelper box further down the page.",
+  "listings": [
+    {
+      "name": "Penske Truck Rental — East Olympic Boulevard",
+      "category": "truck",
+      "area": "Los Angeles · Downtown / Arts District edge",
+      "address": "2300 E Olympic Blvd, Los Angeles, CA 90021",
+      "phone": "(213) 628-1255",
+      "website": "https://www.pensketruckrental.com/locations/us/california/los_angeles/045310/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/california/los_angeles/045310/",
+      "hours": {
+        "monday": "7:00 AM–5:00 PM",
+        "tuesday": "7:00 AM–5:00 PM",
+        "wednesday": "7:00 AM–5:00 PM",
+        "thursday": "7:00 AM–5:00 PM",
+        "friday": "7:00 AM–5:00 PM",
+        "saturday": "7:00 AM–12:00 PM",
+        "sunday": "8:00 AM–12:00 PM",
+        "notes": "Hours from the official Penske Los Angeles location page. The page marks after-hours key drop as open and includes a one-way rental phone line. Confirm the drop location with the branch; the printed instruction on that page appears generic."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt. Company-wide copy on the same page mentions unlimited mileage with one-way trips.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Weekend hours are published as morning windows only (Saturday 7:00 AM–12:00 PM, Sunday 8:00 AM–12:00 PM). Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske Los Angeles (E Olympic Blvd) location page",
+          "url": "https://www.pensketruckrental.com/locations/us/california/los_angeles/045310/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #6689",
+      "category": "truck",
+      "area": "Los Angeles · Figueroa / Cypress Park area",
+      "address": "2055 N Figueroa St, Los Angeles, CA 90065",
+      "phone": "(323) 307-9831",
+      "website": "https://www.pensketruckrental.com/locations/us/california/los_angeles/045331/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/california/los_angeles/045331/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page for this Home Depot dealer. The page marks after-hours key drop as open and includes a one-way rental phone line. Confirm the drop location with the branch; the printed instruction on that page appears generic. These hours are what Penske publishes for this dealer location; confirm whether the truck desk follows the same clock as the host store."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official Penske page for this Home Depot dealer includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is a Penske desk at a Home Depot, as published on Penske’s location page. Confirm desk hours and whether a truck is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske at Home Depot #6689 (N Figueroa St)",
+          "url": "https://www.pensketruckrental.com/locations/us/california/los_angeles/045331/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #1061",
+      "category": "truck",
+      "area": "Los Angeles · West Slauson / Ladera Heights edge",
+      "address": "4925 W Slauson Avenue, Los Angeles, CA 90056",
+      "phone": "(323) 962-2843",
+      "website": "https://www.pensketruckrental.com/locations/us/california/los_angeles/045345/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/california/los_angeles/045345/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page for this Home Depot dealer. The page marks after-hours key drop as open and includes a one-way rental phone line. Confirm the drop location with the branch; the printed instruction on that page appears generic. These hours are what Penske publishes for this dealer location; confirm whether the truck desk follows the same clock as the host store."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official Penske page for this Home Depot dealer includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is a Penske desk at a Home Depot, as published on Penske’s location page. Confirm desk hours and whether a truck is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske at Home Depot #1061 (W Slauson Ave)",
+          "url": "https://www.pensketruckrental.com/locations/us/california/los_angeles/045345/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental of Los Angeles — Mateo Street",
+      "category": "truck",
+      "area": "Los Angeles · Arts District / Mateo Street",
+      "address": "647 Mateo St, Los Angeles, CA 90021",
+      "phone": "(213) 328-6365",
+      "website": "https://www.budgettruck.com/locations/ca/los-angeles/900219",
+      "bookingUrl": "https://www.budgettruck.com/locations/ca/los-angeles/900219",
+      "hours": {
+        "monday": "6:00 AM–5:30 PM",
+        "tuesday": "6:00 AM–5:30 PM",
+        "wednesday": "6:00 AM–5:30 PM",
+        "thursday": "6:00 AM–5:30 PM",
+        "friday": "6:00 AM–5:30 PM",
+        "saturday": "7:00 AM–4:00 PM",
+        "sunday": "8:00 AM–2:00 PM",
+        "notes": "Hours from the official Budget location page, which lists Sunday 8 a.m.–2 p.m., Monday–Friday 6 a.m.–5:30 p.m., and Saturday 7 a.m.–4 p.m. The page also notes boxes and supplies, car rentals, lift gates, Spanish spoken, and that the location is near a gas station."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Confirm that a vehicle in the size you need is actually on the lot. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Los Angeles (Mateo St) location page",
+          "url": "https://www.budgettruck.com/locations/ca/los-angeles/900219"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental at Doshi Arco",
+      "category": "truck",
+      "area": "Los Angeles · Verdugo Road",
+      "address": "4103 Verdugo Rd, Los Angeles, CA 90065",
+      "phone": "(323) 274-4689",
+      "website": "https://www.budgettruck.com/locations/ca/los-angeles/900652",
+      "bookingUrl": "https://www.budgettruck.com/locations/ca/los-angeles/900652",
+      "hours": {
+        "monday": "8:00 AM–5:00 PM",
+        "tuesday": "8:00 AM–5:00 PM",
+        "wednesday": "8:00 AM–5:00 PM",
+        "thursday": "8:00 AM–5:00 PM",
+        "friday": "8:00 AM–5:00 PM",
+        "saturday": "8:00 AM–12:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Budget location page, which lists Sunday closed, Monday–Friday 8 a.m.–5 p.m., and Saturday 8 a.m.–12 p.m. A second phone number, (323) 344-9107, also appears on that page."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Saturday hours are published as 8:00 AM–12:00 PM only. Sunday is published as closed.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Los Angeles (Verdugo Rd) location page",
+          "url": "https://www.budgettruck.com/locations/ca/los-angeles/900652"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental — North Hollywood",
+      "category": "truck",
+      "area": "North Hollywood (Los Angeles neighborhood)",
+      "address": "7521 Lankershim Boulevard, North Hollywood, CA 91605",
+      "phone": "(818) 980-1500",
+      "website": "https://www.budgettruck.com/locations/ca/north-hollywood/916052",
+      "bookingUrl": "https://www.budgettruck.com/locations/ca/north-hollywood/916052",
+      "hours": {
+        "monday": "8:00 AM–4:00 PM",
+        "tuesday": "8:00 AM–4:00 PM",
+        "wednesday": "8:00 AM–4:00 PM",
+        "thursday": "8:00 AM–4:00 PM",
+        "friday": "8:00 AM–4:00 PM",
+        "saturday": "8:00 AM–2:00 PM",
+        "sunday": "8:00 AM–12:00 PM",
+        "notes": "Hours from the official Budget location page, which lists Sunday 8 a.m.–12 p.m., Monday–Friday 8 a.m.–4 p.m., and Saturday 8 a.m.–2 p.m. The page also notes car rentals, lift gates, and Spanish spoken."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "North Hollywood is a neighborhood of the City of Los Angeles. Weekend hours are shorter than weekday hours; confirm the lot still has the size you need.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget North Hollywood location page",
+          "url": "https://www.budgettruck.com/locations/ca/north-hollywood/916052"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "U-Haul at Western Ave",
+      "category": "truck",
+      "area": "Los Angeles · South Western Avenue",
+      "address": "4167 S Western Av, Los Angeles, CA 90062",
+      "phone": "(323) 295-6122",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90062/712023/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90062/712023/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Hours from the official U-Haul at Western Ave truck rental page."
+      },
+      "offers": [
+        "Moving trucks",
+        "Cargo vans",
+        "Pickup trucks",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page describes moving truck, cargo van, and pickup truck rentals, and it includes a search for One-Way and In-Town rentals. The same page says a truck rental reservation is guaranteed on all rental trucks; treat that as the company’s published policy, and still confirm that a vehicle is actually on the lot.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck or van is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul at Western Ave truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90062/712023/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "U-Haul of Hollywood",
+      "category": "truck",
+      "area": "Los Angeles · Hollywood",
+      "address": "4550 Hollywood Blvd, Los Angeles, CA 90027",
+      "phone": "(323) 666-7326",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90027/712024/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90027/712024/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Hours from the official U-Haul of Hollywood truck rental page."
+      },
+      "offers": [
+        "Moving trucks",
+        "Cargo vans",
+        "Pickup trucks",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page describes moving truck, cargo van, and pickup truck rentals, and it includes a search for One-Way and In-Town rentals. The same page says a truck rental reservation is guaranteed on all rental trucks; treat that as the company’s published policy, and still confirm that a vehicle is actually on the lot.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck or van is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul of Hollywood truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90027/712024/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "U-Haul Moving & Storage of South Los Angeles",
+      "category": "truck",
+      "area": "Los Angeles · South Vermont Avenue",
+      "address": "11020 S Vermont Av, Los Angeles, CA 90044",
+      "phone": "(323) 756-8744",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90044/712027/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90044/712027/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Hours from the official U-Haul Moving & Storage of South Los Angeles truck rental page."
+      },
+      "offers": [
+        "Moving trucks",
+        "Cargo vans",
+        "Pickup trucks",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page describes moving truck, cargo van, and pickup truck rentals, and it includes a search for One-Way and In-Town rentals. The same page says a truck rental reservation is guaranteed on all rental trucks; treat that as the company’s published policy, and still confirm that a vehicle is actually on the lot.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck or van is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul of South Los Angeles truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90044/712027/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "U-Haul of Crenshaw",
+      "category": "truck",
+      "area": "Los Angeles · Crenshaw",
+      "address": "2451 S Crenshaw Bl, Los Angeles, CA 90016",
+      "phone": "(323) 734-1125",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90016/712029/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90016/712029/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Hours from the official U-Haul of Crenshaw truck rental page."
+      },
+      "offers": [
+        "Moving trucks",
+        "Cargo vans",
+        "Pickup trucks",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page describes moving truck, cargo van, and pickup truck rentals, and it includes a search for One-Way and In-Town rentals. The same page says a truck rental reservation is guaranteed on all rental trucks; treat that as the company’s published policy, and still confirm that a vehicle is actually on the lot.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck or van is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul of Crenshaw truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Los-Angeles-CA-90016/712029/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Bloom Movers",
+      "category": "labor",
+      "area": "Los Angeles · Sunset Boulevard",
+      "address": "6600 Sunset Blvd, Los Angeles, CA 90028",
+      "phone": "(323) 542-2415",
+      "website": "https://www.bloommovers.com/services/labor-only",
+      "bookingUrl": "https://www.bloommovers.com/services/labor-only",
+      "hours": {
+        "monday": "7:00 AM–9:00 PM",
+        "tuesday": "7:00 AM–9:00 PM",
+        "wednesday": "7:00 AM–9:00 PM",
+        "thursday": "7:00 AM–9:00 PM",
+        "friday": "7:00 AM–9:00 PM",
+        "saturday": "7:00 AM–9:00 PM",
+        "sunday": "7:00 AM–9:00 PM",
+        "notes": "Hours from the official labor-only page, which lists Monday–Sunday 7 AM–9 PM and says the company is open seven days a week."
+      },
+      "offers": [
+        "Labor-only moving help",
+        "Rental truck loading and unloading",
+        "Portable container loading and unloading"
+      ],
+      "offersNotes": "The official labor-only page says Bloom Movers provides a crew when you already have a truck, pod, or container. It specifically mentions loading a U-Haul, Penske, or Budget truck, and loading or unloading PODS, 1-800-PACK-RAT, or U-Pack containers. The same page says same-day moves are available and that the company is locally owned in Los Angeles.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Confirm crew availability for your date. Same-day availability is the company’s published claim, not a guarantee in this directory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Bloom Movers labor-only page",
+          "url": "https://www.bloommovers.com/services/labor-only"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Rigos Moving & Storage, Inc.",
+      "category": "labor",
+      "area": "Los Angeles · East Olympic Boulevard",
+      "address": "4385 E. Olympic Blvd., Los Angeles, CA 90023",
+      "phone": "(323) 519-2845",
+      "website": "https://www.rigosmovingandstorage.com/",
+      "bookingUrl": "https://www.rigosmovingandstorage.com/",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "8:00 AM–6:00 PM",
+        "sunday": "Closed",
+        "notes": "Office hours from the official homepage, which lists Monday–Saturday 8:00 am–6:00 pm and Sunday closed."
+      },
+      "offers": [
+        "Loading-only for rental trucks and containers",
+        "Moving",
+        "Storage"
+      ],
+      "offersNotes": "The official homepage includes a loading-only mention for pods, ABF, rental trucks, and similar equipment, alongside broader moving and storage services. This listing flags labor-only because loading-only is published; a full-service move is a different product on the same site.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Sunday is published as closed. Confirm that you are booking loading-only help rather than a full-service move.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Rigos Moving & Storage homepage",
+          "url": "https://www.rigosmovingandstorage.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "XL Movers",
+      "category": "labor",
+      "area": "Los Angeles · Wilshire Boulevard",
+      "address": "3150 Wilshire Blvd #1212W, Los Angeles, CA 90010",
+      "phone": "(424) 672-7731",
+      "website": "https://xlmovers.com/labor_only/",
+      "bookingUrl": "https://xlmovers.com/labor_only/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official labor-only page lists an address and phone number but does not publish daily hours. Call the company rather than assuming a walk-in window."
+      },
+      "offers": [
+        "Labor-only packing and unpacking",
+        "Loading and unloading a truck",
+        "Furniture rearranging"
+      ],
+      "offersNotes": "The official labor-only page says the service is for customers who already have a truck and need help packing, moving, loading, and unloading. It also says a labor-only booking includes movers and a light-duty vehicle, plus tools, dollies, and pads if needed. Confirm whether you need only labor, or labor plus that light-duty vehicle, when you book.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "Daily hours are not published on the labor-only page. The same company also mentions warehouses in DTLA, Torrance, Pasadena, and North Hollywood; this listing uses the Wilshire Boulevard address printed on the labor-only page.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "XL Movers labor-only page",
+          "url": "https://xlmovers.com/labor_only/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Pro Express Moving",
+      "category": "labor",
+      "area": "Los Angeles · Wilshire Boulevard",
+      "address": "1010 Wilshire Blvd, Suite 405, Los Angeles, CA 90017",
+      "phone": "(888) 711-4778",
+      "website": "https://proexpressmoving.com/services/load-help/",
+      "bookingUrl": "https://proexpressmoving.com/services/load-help/",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "8:00 AM–6:00 PM",
+        "sunday": "Not published",
+        "notes": "The official loading-and-unloading page lists Monday–Saturday 8am–6pm in the footer. Sunday hours are not published on that page, so they are marked “Not published” rather than assumed closed."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Rental truck loading",
+        "POD or container loading"
+      ],
+      "offersNotes": "The official page says labor-only crews load or unload a rental truck, POD, container, or trailer that the customer supplies. Published crew rates on that page are $149/hour for two movers or $209/hour for three, with the one-hour minimum waived on this service and a $99 booking deposit applied to the labor total. Confirm live rates when you book; they can change.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "The published address is an office suite. Confirm crew availability for your date and neighborhood.",
+      "feeNotes": "Rates quoted above are copied from the official loading-and-unloading page last checked November 18, 2026, and may change.",
+      "sources": [
+        {
+          "label": "Pro Express loading and unloading page",
+          "url": "https://proexpressmoving.com/services/load-help/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Best Movers LA",
+      "category": "labor",
+      "area": "Beverly Hills office · serves Los Angeles County",
+      "address": "9350 Wilshire Blvd Suite 203, Beverly Hills, CA 90212",
+      "phone": "(323) 793-0214",
+      "website": "https://bestmoversla.com/services/labor-only-moving",
+      "bookingUrl": "https://bestmoversla.com/services/labor-only-moving",
+      "hours": {
+        "monday": "7:00 AM–8:00 PM",
+        "tuesday": "7:00 AM–8:00 PM",
+        "wednesday": "7:00 AM–8:00 PM",
+        "thursday": "7:00 AM–8:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–8:00 PM",
+        "sunday": "7:00 AM–8:00 PM",
+        "notes": "Hours from the official labor-only page, which lists Monday–Sunday 7am–8pm."
+      },
+      "offers": [
+        "Labor-only moving crews",
+        "Loading and unloading"
+      ],
+      "offersNotes": "The official labor-only page says Best Movers LA provides labor-only crews and publishes $80/hour for two movers with a two-hour minimum, plus $40/hour per extra mover. The footer address is in Beverly Hills, and the page says the company serves all of Los Angeles County, including Downtown LA and Hollywood. This is not a City of Los Angeles storefront; the office city is listed as published.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "The published office is in Beverly Hills, not the City of Los Angeles. Confirm that the crew will serve your neighborhood and date.",
+      "feeNotes": "Rates quoted above are copied from the official labor-only page last checked November 18, 2026, and may change.",
+      "sources": [
+        {
+          "label": "Best Movers LA labor-only page",
+          "url": "https://bestmoversla.com/services/labor-only-moving"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+---
+layout: base.njk
+permalink: "/guides/uhaul-sold-out-every-other-way-to-move-this-weekend/"
+eleventyComputed:
+  title: "U-Haul sold out? Every other way to move this weekend · {{ site.name }}"
+  description: "Truck rental alternatives, labor-only loading help, portable containers, and moving-day tips for when a U-Haul reservation is cancelled or the lot is empty."
+  ogType: "article"
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: Sold-out guide
+      url: /guides/uhaul-sold-out-every-other-way-to-move-this-weekend/
+  faqs:
+    - q: "What should I do first if U-Haul is sold out?"
+      a: "Call or reserve at another truck rental company — Penske, Budget Truck Rental, and Enterprise Truck Rental are the usual next stops — and check more than one neighborhood. We do not cache live inventory. Use each company’s reservation page, and confirm the pickup hours with the location."
+    - q: "Can I still move if I already have a truck but no help?"
+      a: "Yes. Labor-only movers will load or unload a truck, van, or portable container that you already have. Local crews are listed on our city pages, and HireAHelper is a public marketplace for booking that kind of help."
+    - q: "Are portable containers a same-day option?"
+      a: "Not usually. PODS, U-Pack, and 1-800-PACK-RAT deliver a container for you to load, then haul it or store it. Delivery windows are scheduled in advance and vary by market, so they are a backup when you can wait a day or more, not a substitute for a truck you needed this morning."
+    - q: "Are the links on this page affiliate links?"
+      a: "Not yet for HireAHelper or Neighbor. Until a program issues a tracked URL, those buttons go to each company’s public website. Links to truck rental reservation pages are ordinary public links, not affiliate offers. See the affiliate disclosure."
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">Guide</p>
+  <h1>U-Haul sold out? Every other way to move this weekend</h1>
+  <p>A reserved truck that is not on the lot — or a cancellation a day or two before the move — is a common complaint. This page covers the options that still exist when that happens: other truck rental counters, labor-only crews who will load a vehicle you already have, portable containers if you can wait for a delivery window, and a short list of moving-day habits that reduce the chance of getting stuck again.</p>
+  <p>It is not a live inventory board. Truck counts change by the hour. Follow each company’s reservation page, and confirm hours with the location before you drive over. City directories for <a href="/ny/new-york/">New York</a> and <a href="/ca/los-angeles/">Los Angeles</a> list verified addresses and published hours.</p>
+  <p class="disclosure">{{ site.disclosure }}</p>
+
+  <h2>1. Other truck rental counters</h2>
+  <p>When one brand is empty, the next move is another counter, not only another location of the same brand. These companies publish location and reservation pages that you can use as deep links — they are not affiliate offers.</p>
+  <ul>
+    <li><strong>Penske Truck Rental</strong> — Official locations and reservations are at <a href="https://www.pensketruckrental.com/" rel="noopener">pensketruckrental.com</a>. Location pages we checked list local and one-way rentals, and many mention after-hours key drop. Confirm the drop-off instruction with the branch; some pages reuse generic text.</li>
+    <li><strong>Budget Truck Rental</strong> — Official location pages are under <a href="https://www.budgettruck.com/locations" rel="noopener">budgettruck.com/locations</a>. The pages we checked list cargo vans and 12-, 16-, and 26-foot trucks when that location offers them. Hours are often shorter on Sunday, and some locations are closed weekends.</li>
+    <li><strong>Enterprise Truck Rental</strong> — Official locations are listed at <a href="https://www.enterprisetrucks.com/truckrental/en_US/locations.html" rel="noopener">enterprisetrucks.com</a>. Pages describe moving trucks, pickup trucks, and business rentals. Some location pages do not publish weekly hours in the public HTML; call the branch if hours are missing.</li>
+    <li><strong>Home Depot and Lowe’s</strong> — Some stores rent trucks or cargo vans from a rental desk or through a partner such as Penske. Availability is store-specific. Check the store’s official rental page and call the rental desk; do not assume every store has a truck today.</li>
+    <li><strong>U-Haul, still</strong> — A sold-out neighborhood is not always a sold-out city. The official locator at <a href="https://www.uhaul.com/Locations/" rel="noopener">uhaul.com/Locations</a> is still worth a second search, including nearby boroughs or suburbs, and for cargo vans or pickup trucks if a box truck is gone.</li>
+  </ul>
+  <p>Start with a city page if we have one, then jump to the reservation link on each listing. If we do not have your city yet, use those official locators directly.</p>
+
+  <h2>2. Labor-only help, if you already have a truck</h2>
+  <p>If the truck or container is already reserved, the bottleneck is often loading it. Labor-only movers supply a crew, not the vehicle. They load or unload a rental truck, van, or portable container, and some also rearrange furniture or pack.</p>
+  <p>Our city pages list local companies only when their own public pages give an address, hours (or clearly say hours are unpublished), and a labor-only or loading service. A marketplace is another path:</p>
+  <ul>
+    <li><strong>HireAHelper</strong> — The official site at <a href="{{ site.affiliates.hireAHelper | affiliateHref }}" {% if site.affiliates.hireAHelper | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">hireahelper.com</a> lets you compare and book movers, including loading and unloading.{% if not (site.affiliates.hireAHelper | affiliateIsTracked) %} This is the public website, not a tracked affiliate link yet.{% endif %} City search pages exist for <a href="https://www.hireahelper.com/movers/new-york_ny/" rel="noopener">New York</a> and <a href="https://www.hireahelper.com/movers/los-angeles_ca/" rel="noopener">Los Angeles</a>.</li>
+    <li><strong>U-Haul Moving Help</strong> — U-Haul’s official labor marketplace at <a href="https://www.uhaul.com/MovingHelp/" rel="noopener">uhaul.com/MovingHelp</a> lists local providers for loading and unloading truck rentals and U-Box containers. It is a separate booking from the truck itself.</li>
+  </ul>
+  <p>Ask whether the quote is labor only, whether there is a two-hour minimum, and whether stairs, long carries, or packing are extra. Those details belong on the company’s page or in the booking flow, not in a cached directory.</p>
+
+  <h2>3. Portable containers, if you can wait for a delivery window</h2>
+  <p>A portable container is a different timeline than a walk-up truck rental. The company delivers a container, you load it, and they haul it to the new address or to storage. Official pages describe the model this way:</p>
+  <ul>
+    <li><strong>PODS</strong> — The official moving-services page at <a href="https://www.pods.com/en-us/moving-services" rel="noopener">pods.com/en-us/moving-services</a> describes container delivery, loading at your pace, and moving or storage after pickup. Scheduling and delivery FAQs, including service windows, are published on PODS’ own site and vary by market.</li>
+    <li><strong>U-Pack</strong> — Official information is at <a href="https://www.upack.com/" rel="noopener">upack.com</a>. U-Pack’s public site markets moving containers (including ReloCubes) and, on some routes, the option to load a trailer. Get dates and prices from that site; we do not republish rates here.</li>
+    <li><strong>1-800-PACK-RAT</strong> — The official site at <a href="https://www.1800packrat.com/" rel="noopener">1800packrat.com</a> describes delivery of an all-steel, weatherproof moving and storage container that you pack at your pace, with an option to consult the company’s professional labor partners.</li>
+  </ul>
+  <p>Containers help when a same-day truck is gone and the move can slip by a delivery window. They are a poor substitute if you have to be out of a unit this morning. We did not find an official publisher affiliate program with published conversion terms for these container brands, so the links above are ordinary public links.</p>
+
+  <h2>4. Moving-day tips when the clock is short</h2>
+  <ul>
+    <li><strong>Have a second reservation path before pickup day.</strong> If one company’s lot is empty, you want another brand already looked up, not a first search from the sidewalk.</li>
+    <li><strong>Arrive earlier than the posted close.</strong> Several rental counters we checked close at midday on Saturday or Sunday, and some are closed on Sunday entirely. A truck that exists at 9 a.m. may be gone, or the counter shut, by early afternoon.</li>
+    <li><strong>Ask what is actually on the lot.</strong> Online reservations are not the same as a truck in the space. Confirm the vehicle size, and whether a cargo van or pickup is an acceptable fallback.</li>
+    <li><strong>Measure parking and building rules.</strong> A 26-foot truck is useless if it cannot stop at the curb. Check loading-dock hours, elevator reservations, and street-parking rules before you choose a truck size.</li>
+    <li><strong>Book labor after the vehicle is real.</strong> A crew without a truck still leaves you stuck. Once a reservation is confirmed, labor-only help can load it faster than a solo move, especially on walk-ups.</li>
+    <li><strong>If you need space during the move,</strong> a short-term storage unit can bridge a gap between truck days. <a href="{{ site.affiliates.neighbor | affiliateHref }}" {% if site.affiliates.neighbor | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">Neighbor</a> is a public storage marketplace.{% if not (site.affiliates.neighbor | affiliateIsTracked) %} That button is the public website, not a tracked affiliate link yet.{% endif %}</li>
+  </ul>
+
+  <h2>City directories</h2>
+  <ul>
+    {% for city in cities %}
+    <li><a href="{{ city | cityPath }}">{{ city.city }}, {{ city.state }}</a> — {{ city.listings | length }} verified listings{% if city.focus %}, with a {{ city.focus }} focus{% endif %}.</li>
+    {% endfor %}
+  </ul>
+  <p>Each listing has a source URL and a last-checked date. If a fact could not be verified, it was left out.</p>
+
+  <section class="faq" id="faq" aria-labelledby="faq-heading">
+    <h2 id="faq-heading">Frequently asked questions</h2>
+    {% for faq in faqs %}
+    <details>
+      <summary>{{ faq.q }}</summary>
+      <p>{{ faq.a }}</p>
+    </details>
+    {% endfor %}
+  </section>
+</article>

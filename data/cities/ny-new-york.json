@@ -1,0 +1,622 @@
+{
+  "slug": "ny-new-york",
+  "city": "New York",
+  "citySlug": "new-york",
+  "state": "NY",
+  "stateName": "New York",
+  "focus": "Manhattan, Brooklyn, Queens, and the Bronx",
+  "lastUpdated": "2026-11-18",
+  "intro": "This first New York page covers official truck-rental locations and labor-only movers in Manhattan, Brooklyn, Queens, and the Bronx whose own public pages list an address and, where published, daily hours. It is not a complete citywide inventory, and it does not report live truck counts. One-way and cargo-van flags are on only when the location page mentions those services. If a day’s hours were missing, they are marked “Not published,” not guessed as closed. If you already have a truck or container, use the labor-only filter or the HireAHelper box further down the page.",
+  "listings": [
+    {
+      "name": "U-Haul of Chelsea",
+      "category": "truck",
+      "area": "Manhattan · Chelsea",
+      "address": "536 W 23rd St, Manhattan, NY 10011",
+      "phone": "(212) 620-4177",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Manhattan-NY-10011/803062/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Manhattan-NY-10011/803062/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–8:00 PM",
+        "sunday": "7:00 AM–5:00 PM",
+        "notes": "Hours from the official U-Haul of Chelsea truck rental page. The same page places the store at 536 W 23rd St, between 10th and 11th Avenues."
+      },
+      "offers": [
+        "Moving trucks",
+        "Cargo vans",
+        "Pickup trucks",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page describes moving truck, cargo van, and pickup truck rentals, and it includes a search for One-Way and In-Town rentals. The same page says a truck rental reservation is guaranteed on all rental trucks; treat that as the company’s published policy, and still confirm that a vehicle is actually on the lot.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck or van is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul of Chelsea truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Manhattan-NY-10011/803062/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "U-Haul Moving & Storage of Park Slope",
+      "category": "truck",
+      "area": "Brooklyn · Park Slope",
+      "address": "394 4th Ave, Park Slope, NY 11215",
+      "phone": "(718) 237-2893",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Park-Slope-NY-11215/802059/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Park-Slope-NY-11215/802059/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Hours from the official U-Haul Moving & Storage of Park Slope truck rental page. The same page places the store at 394 4th Ave, at 6th Street."
+      },
+      "offers": [
+        "Moving trucks",
+        "Cargo vans",
+        "Pickup trucks",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page describes moving truck, cargo van, and pickup truck rentals, and it includes a search for One-Way and In-Town rentals. The same page says a truck rental reservation is guaranteed on all rental trucks; treat that as the company’s published policy, and still confirm that a vehicle is actually on the lot.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck or van is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul of Park Slope truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Park-Slope-NY-11215/802059/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "U-Haul Moving & Storage of Woodside",
+      "category": "truck",
+      "area": "Queens · Woodside",
+      "address": "2645 Brooklyn Queens Expy W, Woodside, NY 11377",
+      "phone": "(718) 267-2928",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Woodside-NY-11377/802023/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Woodside-NY-11377/802023/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Hours from the official U-Haul Moving & Storage of Woodside truck rental page."
+      },
+      "offers": [
+        "Moving trucks",
+        "Cargo vans",
+        "Pickup trucks",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page describes moving truck, cargo van, and pickup truck rentals, and it includes a search for One-Way and In-Town rentals. The same page says a truck rental reservation is guaranteed on all rental trucks; treat that as the company’s published policy, and still confirm that a vehicle is actually on the lot.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck or van is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul of Woodside truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Woodside-NY-11377/802023/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "U-Haul at Crosspoint Estates",
+      "category": "truck",
+      "area": "Brooklyn · Flatbush",
+      "address": "1859 Flatbush Ave, Brooklyn, NY 11210",
+      "phone": "",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Brooklyn-NY-11210/029444/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Brooklyn-NY-11210/029444/",
+      "hours": {
+        "monday": "10:00 AM–7:00 PM",
+        "tuesday": "10:00 AM–7:00 PM",
+        "wednesday": "10:00 AM–7:00 PM",
+        "thursday": "10:00 AM–7:00 PM",
+        "friday": "10:00 AM–7:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "Hours from the official U-Haul truck rental page for Crosspoint Estates, which U-Haul labels as a neighborhood dealer. The page did not publish a location phone number."
+      },
+      "offers": [
+        "Moving trucks",
+        "Cargo vans",
+        "Pickup trucks",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page describes moving truck, cargo van, and pickup truck rentals, and it includes a search for One-Way and In-Town rentals. The same page says a truck rental reservation is guaranteed on all rental trucks; treat that as the company’s published policy, and still confirm that a vehicle is actually on the lot.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": false,
+        "cargoVan": true
+      },
+      "visitNotes": "This location is published as closed Saturday and Sunday. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul at Crosspoint Estates truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Brooklyn-NY-11210/029444/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental — Manhattan",
+      "category": "truck",
+      "area": "Manhattan · West 126th Street",
+      "address": "427 W 126th St, New York, NY 10027",
+      "phone": "(212) 741-9805",
+      "website": "https://www.pensketruckrental.com/locations/us/new_york/new_york/683310/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/new_york/new_york/683310/",
+      "hours": {
+        "monday": "8:00 AM–4:00 PM",
+        "tuesday": "8:00 AM–4:00 PM",
+        "wednesday": "8:00 AM–4:00 PM",
+        "thursday": "8:00 AM–4:00 PM",
+        "friday": "8:00 AM–4:00 PM",
+        "saturday": "8:00 AM–4:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske Manhattan location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt. Company-wide copy on the same page mentions unlimited mileage with one-way trips. Truck sizes on the lot are not listed as a fixed inventory here.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm pickup hours; this counter closes at 4:00 PM on weekdays and Saturday, and is published as closed Sunday.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske Manhattan location page",
+          "url": "https://www.pensketruckrental.com/locations/us/new_york/new_york/683310/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental — Bronx",
+      "category": "truck",
+      "area": "Bronx · East 156th Street",
+      "address": "1164 E 156th St, Bronx, NY 10474",
+      "phone": "(929) 303-3258",
+      "website": "https://www.pensketruckrental.com/locations/us/new_york/bronx/648510/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/new_york/bronx/648510/",
+      "hours": {
+        "monday": "8:00 AM–4:00 PM",
+        "tuesday": "8:00 AM–4:00 PM",
+        "wednesday": "8:00 AM–4:00 PM",
+        "thursday": "8:00 AM–4:00 PM",
+        "friday": "8:00 AM–4:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske Bronx location page. The page marks after-hours key drop as open and includes a one-way rental phone line. Confirm the drop location with the branch; the printed instruction on that page appears generic."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt. Company-wide copy on the same page mentions unlimited mileage with one-way trips.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "The official page lists this location as closed Saturday and Sunday.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske Bronx location page",
+          "url": "https://www.pensketruckrental.com/locations/us/new_york/bronx/648510/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at We Rent Trucks",
+      "category": "truck",
+      "area": "Brooklyn · Flatbush",
+      "address": "2131 Flatbush Ave, Brooklyn, NY 11234",
+      "phone": "(718) 951-2253",
+      "website": "https://www.pensketruckrental.com/locations/us/new_york/brooklyn/067732/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/new_york/brooklyn/067732/",
+      "hours": {
+        "monday": "8:00 AM–5:30 PM",
+        "tuesday": "8:00 AM–5:30 PM",
+        "wednesday": "8:00 AM–5:30 PM",
+        "thursday": "8:00 AM–5:30 PM",
+        "friday": "8:00 AM–5:30 PM",
+        "saturday": "9:00 AM–12:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske page for the We Rent Trucks location in Brooklyn. The page marks after-hours key drop as open and includes a one-way rental phone line. Confirm the drop location with the branch; the printed instruction on that page appears generic."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt. Company-wide copy on the same page mentions unlimited mileage with one-way trips.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Saturday hours are published as 9:00 AM–12:00 PM only. Sunday is published as closed.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske at We Rent Trucks, Brooklyn",
+          "url": "https://www.pensketruckrental.com/locations/us/new_york/brooklyn/067732/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental at 1667 Rental Depot Inc",
+      "category": "truck",
+      "area": "Queens · Long Island City",
+      "address": "3831 43rd Street, Long Island City, NY 11101",
+      "phone": "(718) 472-5138",
+      "website": "https://www.budgettruck.com/locations/ny/long-island-city/111014",
+      "bookingUrl": "https://www.budgettruck.com/locations/ny/long-island-city/111014",
+      "hours": {
+        "monday": "8:00 AM–3:00 PM",
+        "tuesday": "8:00 AM–3:00 PM",
+        "wednesday": "8:00 AM–3:00 PM",
+        "thursday": "8:00 AM–3:00 PM",
+        "friday": "8:00 AM–3:00 PM",
+        "saturday": "8:00 AM–2:00 PM",
+        "sunday": "8:00 AM–11:00 AM",
+        "notes": "Hours from the official Budget location page, which lists Sunday 8 a.m.–11 a.m., Monday–Friday 8 a.m.–3 p.m., and Saturday 8 a.m.–2 p.m. A second phone number, (718) 482-9146, also appears on that page."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Sunday hours are published as a short morning window only. Confirm that a vehicle in the size you need is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Long Island City location page",
+          "url": "https://www.budgettruck.com/locations/ny/long-island-city/111014"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental at KMK Truck Rental Inc",
+      "category": "truck",
+      "area": "Queens · Ridgewood",
+      "address": "6004 Metropolitan Ave, Ridgewood, NY 11385",
+      "phone": "(718) 381-4717",
+      "website": "https://www.budgettruck.com/locations/ny/ridgewood/113852",
+      "bookingUrl": "https://www.budgettruck.com/locations/ny/ridgewood/113852",
+      "hours": {
+        "monday": "8:00 AM–4:00 PM",
+        "tuesday": "8:00 AM–4:00 PM",
+        "wednesday": "8:00 AM–4:00 PM",
+        "thursday": "8:00 AM–4:00 PM",
+        "friday": "8:00 AM–4:00 PM",
+        "saturday": "8:00 AM–4:00 PM",
+        "sunday": "8:00 AM–3:00 PM",
+        "notes": "Hours from the official Budget location page, which lists Sunday 8 a.m.–3 p.m. and Monday–Saturday 8 a.m.–4 p.m. A second phone number, (718) 417-5972, also appears on that page. The page says the location offers after-hours drop and lift gates, and notes it is near a gas station."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Confirm after-hours drop instructions with the location before you rely on them.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Ridgewood location page",
+          "url": "https://www.budgettruck.com/locations/ny/ridgewood/113852"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental at Belmont Industries Inc",
+      "category": "truck",
+      "area": "Bronx · Fordham",
+      "address": "600 E Fordham Rd, Bronx, NY 10458",
+      "phone": "(718) 220-1087",
+      "website": "https://www.budgettruck.com/locations/ny/bronx/104583",
+      "bookingUrl": "https://www.budgettruck.com/locations/ny/bronx/104583",
+      "hours": {
+        "monday": "8:00 AM–3:00 PM",
+        "tuesday": "8:00 AM–3:00 PM",
+        "wednesday": "8:00 AM–3:00 PM",
+        "thursday": "8:00 AM–3:00 PM",
+        "friday": "8:00 AM–3:00 PM",
+        "saturday": "8:00 AM–3:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Budget location page, which lists Sunday closed and Monday–Saturday 8 a.m.–3 p.m. A second phone number, (718) 220-6200, also appears on that page."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Sunday is published as closed. Confirm that a vehicle in the size you need is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Bronx (Fordham) location page",
+          "url": "https://www.budgettruck.com/locations/ny/bronx/104583"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental at A Mohsan Service Center Inc",
+      "category": "truck",
+      "area": "Brooklyn · Coney Island Avenue",
+      "address": "598 Coney Island Ave, Brooklyn, NY 11218",
+      "phone": "(718) 851-3521",
+      "website": "https://www.budgettruck.com/locations/ny/brooklyn/112181",
+      "bookingUrl": "https://www.budgettruck.com/locations/ny/brooklyn/112181",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "8:00 AM–3:00 PM",
+        "sunday": "8:00 AM–11:30 AM",
+        "notes": "Hours from the official Budget location page, which lists Sunday 8 a.m.–11:30 a.m., Monday–Friday 8 a.m.–6 p.m., and Saturday 8 a.m.–3 p.m. A second phone number, (718) 438-6748, also appears on that page. The page says the location offers after-hours drop, boxes and supplies, and lift gates, with drop-off instructions to park outside the gate in an available open space."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Sunday hours are published as a short morning window only. Confirm after-hours drop instructions with the location.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Brooklyn (Coney Island Ave) location page",
+          "url": "https://www.budgettruck.com/locations/ny/brooklyn/112181"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental — Manhattan/Bronx (Boston Road)",
+      "category": "truck",
+      "area": "Bronx · Boston Road",
+      "address": "4075 Boston Rd, Bronx, NY 10466",
+      "phone": "(718) 581-5300",
+      "website": "https://www.budgettruck.com/locations/ny/bronx/100300",
+      "bookingUrl": "https://www.budgettruck.com/locations/ny/bronx/100300",
+      "hours": {
+        "monday": "8:00 AM–5:00 PM",
+        "tuesday": "8:00 AM–5:00 PM",
+        "wednesday": "8:00 AM–5:00 PM",
+        "thursday": "8:00 AM–5:00 PM",
+        "friday": "8:00 AM–5:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "Hours from the official Budget location page, which is titled “Budget Manhattan/bronx” and lists the address in the Bronx. Sunday and Saturday are published as closed; Monday–Friday are 8 a.m.–5 p.m. A second phone number, (718) 581-5654, also appears on that page, which notes that Spanish is spoken."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": false,
+        "cargoVan": true
+      },
+      "visitNotes": "The official page lists this location as closed Saturday and Sunday, despite the “Manhattan/bronx” name. The published street address is on Boston Road in the Bronx.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Manhattan/Bronx (Boston Road) location page",
+          "url": "https://www.budgettruck.com/locations/ny/bronx/100300"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Enterprise Truck Rental — Long Island City",
+      "category": "truck",
+      "area": "Queens · Long Island City",
+      "address": "4750 Van Dam St, Long Island City, NY 11101",
+      "phone": "(718) 433-2346",
+      "website": "https://www.enterprisetrucks.com/truckrental/en_US/locations/us/e124b3-long-island-city.html",
+      "bookingUrl": "https://www.enterprisetrucks.com/truckrental/en_US/locations/us/e124b3-long-island-city.html",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official Long Island City page lists the address, phone, fax (718) 433-2386, and branch code E124B3, but the “Hours of Operation” block does not publish weekly hours in the public page content we retrieved. Call the branch rather than assuming hours from a third-party listing."
+      },
+      "offers": [
+        "Moving trucks",
+        "Pickup trucks"
+      ],
+      "offersNotes": "The official location page says it services consumers looking for moving trucks and business truck rental, and it lists pickup trucks from 1/2-ton to 1-ton with 2WD and 4WD options. It also says the location services Bronx, Brooklyn, Long Island, and Staten Island. Cargo vans and one-way service are not stated on this location page, so those flags are off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "Confirm hours and vehicle availability with the branch before you travel. The official page did not publish a weekly hours table in the content we retrieved.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Enterprise Truck Rental Long Island City page",
+          "url": "https://www.enterprisetrucks.com/truckrental/en_US/locations/us/e124b3-long-island-city.html"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Yes Yes Deliver",
+      "category": "labor",
+      "area": "Manhattan · Tribeca office, serves Brooklyn and other parts of New York City",
+      "address": "88 W Broadway, New York, NY 10007",
+      "phone": "(833) 993-7937",
+      "website": "https://www.yesyesdeliver.com/labor-only-movers-nyc",
+      "bookingUrl": "https://www.yesyesdeliver.com/labor-only-movers-nyc",
+      "hours": {
+        "monday": "9:00 AM–9:00 PM",
+        "tuesday": "9:00 AM–9:00 PM",
+        "wednesday": "9:00 AM–9:00 PM",
+        "thursday": "9:00 AM–9:00 PM",
+        "friday": "9:00 AM–9:00 PM",
+        "saturday": "9:00 AM–9:00 PM",
+        "sunday": "9:00 AM–9:00 PM",
+        "notes": "Hours from the official labor-only page, which lists Monday–Sunday 9 AM–9 PM."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Rental truck loading",
+        "Moving container loading",
+        "Furniture moving"
+      ],
+      "offersNotes": "The official page says crews can load and unload rental trucks and moving containers, move furniture, rearrange heavy items, and move items into or out of storage. It says you provide the transportation and the company provides the labor. Service is described as available throughout Brooklyn and other parts of New York City based on availability, including named Brooklyn neighborhoods and Manhattan.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "The published address is an office location. Confirm crew availability for your date and neighborhood; the page says service is based on availability.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Yes Yes Deliver labor-only NYC page",
+          "url": "https://www.yesyesdeliver.com/labor-only-movers-nyc"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Affordable Movers",
+      "category": "labor",
+      "area": "Brooklyn · Sunset Park",
+      "address": "4719 4th Avenue, Brooklyn, NY 11220",
+      "phone": "(888) 278-9005",
+      "website": "https://affordablemoversco.com/",
+      "bookingUrl": "https://affordablemoversco.com/",
+      "hours": {
+        "monday": "7:00 AM–6:00 PM",
+        "tuesday": "7:00 AM–6:00 PM",
+        "wednesday": "7:00 AM–6:00 PM",
+        "thursday": "7:00 AM–6:00 PM",
+        "friday": "7:00 AM–6:00 PM",
+        "saturday": "7:00 AM–6:00 PM",
+        "sunday": "By appointment",
+        "notes": "Hours from the official homepage, which lists Monday–Saturday 7 a.m.–6 p.m. and Sunday by appointment. The same page also says to call 7 a.m.–4 p.m. ET; treat the call window as a separate published detail, not a replacement for the listed yard hours."
+      },
+      "offers": [
+        "Labor-only U-Haul and POD loading",
+        "Local moving",
+        "Long-distance moving"
+      ],
+      "offersNotes": "The official homepage includes a “Labor-Only U-Haul & POD Loading” service and lists the Sunset Park yard at 4719 4th Avenue. The company also describes licensed local and long-distance moving with its own trucks. This listing flags labor-only because that service is published; a full-service move is a different product on the same site.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Sunday is published as by appointment, not as a regular open interval. Confirm labor-only vs. a full-service truck move when you book.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Affordable Movers homepage",
+          "url": "https://affordablemoversco.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}
