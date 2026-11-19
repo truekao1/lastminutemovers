@@ -1,0 +1,650 @@
+{
+  "slug": "il-chicago",
+  "city": "Chicago",
+  "citySlug": "chicago",
+  "state": "IL",
+  "stateName": "Illinois",
+  "focus": "North, Northwest, West, and South Side truck-rental desks inside Chicago, plus labor-only crews with Chicago offices and one clearly labeled Evanston office",
+  "lastUpdated": "2026-11-18",
+  "intro": "This first Chicago page covers official Penske and Budget truck-rental locations whose own location pages list a Chicago address, plus labor-only movers whose own sites publish an address and hours (two Chicago offices and one clearly labeled Evanston office that markets labor-only service in Chicago). It is not a complete citywide inventory, and it does not report live truck counts. One-way and cargo-van flags are on only when the location page mentions those services. If a day’s hours were missing, they are marked “Not published,” not guessed as closed. If you already have a truck or container, use the labor-only filter or the HireAHelper box further down the page.",
+  "listings": [
+    {
+      "name": "Penske Truck Rental at Cub's Park Service",
+      "category": "truck",
+      "area": "Chicago · North Clark Street (Lakeview)",
+      "address": "3650 North Clark, Chicago, IL 60613",
+      "phone": "773-281-4371",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021828/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021828/",
+      "hours": {
+        "monday": "9:00 AM–5:00 PM",
+        "tuesday": "9:00 AM–5:00 PM",
+        "wednesday": "9:00 AM–5:00 PM",
+        "thursday": "9:00 AM–5:00 PM",
+        "friday": "9:00 AM–5:00 PM",
+        "saturday": "9:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt. Company-wide copy on the same page mentions unlimited mileage with one-way trips. Truck sizes on the lot are not listed as a fixed inventory here.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Published as closed Sunday; Saturday closes at 2:00 PM. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske Cub's Park Service location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021828/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #1903",
+      "category": "truck",
+      "area": "Chicago · North Normandy Avenue (Northwest Side)",
+      "address": "2555 N Normandy Ave, Chicago, IL 60707",
+      "phone": "773-622-2857",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021831/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021831/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch. These hours are what Penske publishes for this dealer location; confirm whether the truck desk follows the same clock as the host store."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official Penske page for this Home Depot dealer includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is a Penske desk at a Home Depot, as published on Penske’s location page. Confirm desk hours and whether a truck is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske The Home Depot #1903 location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021831/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #1974",
+      "category": "truck",
+      "area": "Chicago · North Cicero Avenue",
+      "address": "1919 N Cicero Ave, Chicago, IL 60639",
+      "phone": "773-568-4364",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021835/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021835/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch. These hours are what Penske publishes for this dealer location; confirm whether the truck desk follows the same clock as the host store."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official Penske page for this Home Depot dealer includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is a Penske desk at a Home Depot, as published on Penske’s location page. Confirm desk hours and whether a truck is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske The Home Depot #1974 location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021835/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #1961",
+      "category": "truck",
+      "area": "Chicago · North Elston Avenue (Bucktown)",
+      "address": "2570 N Elston Avenue, Chicago, IL 60647",
+      "phone": "773-489-4980",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021836/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021836/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch. These hours are what Penske publishes for this dealer location; confirm whether the truck desk follows the same clock as the host store."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official Penske page for this Home Depot dealer includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is a Penske desk at a Home Depot, as published on Penske’s location page. Confirm desk hours and whether a truck is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske The Home Depot #1961 location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021836/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #1912",
+      "category": "truck",
+      "area": "Chicago · West North Avenue (Lincoln Park)",
+      "address": "1232 W North Avenue, Chicago, IL 60642",
+      "phone": "773-486-8301",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021837/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021837/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch. These hours are what Penske publishes for this dealer location; confirm whether the truck desk follows the same clock as the host store."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official Penske page for this Home Depot dealer includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is a Penske desk at a Home Depot, as published on Penske’s location page. Confirm desk hours and whether a truck is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske The Home Depot #1912 location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021837/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #8598",
+      "category": "truck",
+      "area": "Chicago · North Lincoln Avenue (Far North Side)",
+      "address": "6211 N Lincoln Avenue, Chicago, IL 60659",
+      "phone": "312-321-9575",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021844/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021844/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "6:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch. These hours are what Penske publishes for this dealer location; confirm whether the truck desk follows the same clock as the host store."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official Penske page for this Home Depot dealer includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is a Penske desk at a Home Depot, as published on Penske’s location page. Confirm desk hours and whether a truck is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske The Home Depot #8598 location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021844/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #1980",
+      "category": "truck",
+      "area": "Chicago · North Kimball Avenue",
+      "address": "3500 N Kimball Ave., Chicago, IL 60618",
+      "phone": "773-735-2992",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021845/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021845/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch. These hours are what Penske publishes for this dealer location; confirm whether the truck desk follows the same clock as the host store."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official Penske page for this Home Depot dealer includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is a Penske desk at a Home Depot, as published on Penske’s location page. Confirm desk hours and whether a truck is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske The Home Depot #1980 location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/021845/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #1914",
+      "category": "truck",
+      "area": "Chicago · West 87th Street (South Side)",
+      "address": "200 W 87th St, Chicago, IL 60620",
+      "phone": "773-247-2096",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/620024/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/620024/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch. These hours are what Penske publishes for this dealer location; confirm whether the truck desk follows the same clock as the host store."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official Penske page for this Home Depot dealer includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is a Penske desk at a Home Depot, as published on Penske’s location page. Confirm desk hours and whether a truck is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske The Home Depot #1914 location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/620024/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at Elite Truck Rental",
+      "category": "truck",
+      "area": "Chicago · North Western Avenue (Near West Side)",
+      "address": "265 N Western Ave, Chicago, IL 60612",
+      "phone": "312-738-2249",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/521020/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/521020/",
+      "hours": {
+        "monday": "7:00 AM–5:00 PM",
+        "tuesday": "7:00 AM–5:00 PM",
+        "wednesday": "7:00 AM–5:00 PM",
+        "thursday": "7:00 AM–5:00 PM",
+        "friday": "7:00 AM–5:00 PM",
+        "saturday": "7:00 AM–1:00 PM",
+        "sunday": "7:00 AM–12:00 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt. Company-wide copy on the same page mentions unlimited mileage with one-way trips. Truck sizes on the lot are not listed as a fixed inventory here.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Weekend hours are published as morning windows only (Saturday 7:00 AM–1:00 PM, Sunday 7:00 AM–12:00 PM). Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske Elite Truck Rental location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/521020/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Penske Truck Rental at Kirk Tire Sales & Car Care",
+      "category": "truck",
+      "area": "Chicago · South Western Boulevard",
+      "address": "3601 S. Western Blvd., Chicago, IL 60609",
+      "phone": "773-927-2121",
+      "website": "https://www.pensketruckrental.com/locations/us/illinois/chicago/620040/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/illinois/chicago/620040/",
+      "hours": {
+        "monday": "8:00 AM–5:00 PM",
+        "tuesday": "8:00 AM–5:00 PM",
+        "wednesday": "8:00 AM–5:00 PM",
+        "thursday": "8:00 AM–5:00 PM",
+        "friday": "8:00 AM–5:00 PM",
+        "saturday": "8:00 AM–1:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed drop-off instruction on that page appears to be generic (it mentions 1st Avenue at this and other locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt. Company-wide copy on the same page mentions unlimited mileage with one-way trips. Truck sizes on the lot are not listed as a fixed inventory here.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Published as closed Sunday; Saturday closes at 1:00 PM. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Penske Kirk Tire Sales & Car Care location page",
+          "url": "https://www.pensketruckrental.com/locations/us/illinois/chicago/620040/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental at Moving Chicago LLC",
+      "category": "truck",
+      "area": "Chicago · North Elston Avenue",
+      "address": "2241 N Elston Ave, Chicago, IL 60614",
+      "phone": "(773) 252-0298",
+      "website": "https://www.budgettruck.com/locations/il/chicago/606142",
+      "bookingUrl": "https://www.budgettruck.com/locations/il/chicago/606142",
+      "hours": {
+        "monday": "8:30 AM–5:00 PM",
+        "tuesday": "8:30 AM–5:00 PM",
+        "wednesday": "8:30 AM–5:00 PM",
+        "thursday": "8:30 AM–5:00 PM",
+        "friday": "8:30 AM–5:00 PM",
+        "saturday": "8:30 AM–4:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Budget location page, which lists Sunday closed, Monday–Friday 8:30 a.m.–5 p.m., and Saturday 8:30 a.m.–4 p.m."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off. The page also lists after-hours drop, boxes and supplies, and liftgates.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Published as closed Sunday. Confirm that a vehicle in the size you need is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Moving Chicago LLC location page",
+          "url": "https://www.budgettruck.com/locations/il/chicago/606142"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental — Budget of Wabash",
+      "category": "truck",
+      "area": "Chicago · South Wabash Avenue (South Loop)",
+      "address": "1830 S Wabash Ave, Chicago, IL 60616",
+      "phone": "(312) 225-5396",
+      "website": "https://www.budgettruck.com/locations/il/chicago/606164",
+      "bookingUrl": "https://www.budgettruck.com/locations/il/chicago/606164",
+      "hours": {
+        "monday": "7:00 AM–5:00 PM",
+        "tuesday": "7:00 AM–5:00 PM",
+        "wednesday": "7:00 AM–5:00 PM",
+        "thursday": "7:00 AM–5:00 PM",
+        "friday": "7:00 AM–5:00 PM",
+        "saturday": "7:00 AM–12:00 PM",
+        "sunday": "7:00 AM–12:00 PM",
+        "notes": "Hours from the official Budget location page, which lists Sunday 7 a.m.–12 p.m., Monday–Friday 7 a.m.–5 p.m., and Saturday 7 a.m.–12 p.m. The page’s after-hours drop instruction says to park outside the gate at an available open space."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Weekend hours are morning windows only. Confirm that a vehicle in the size you need is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Budget of Wabash location page location page",
+          "url": "https://www.budgettruck.com/locations/il/chicago/606164"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Budget Truck Rental — Budget Truck of Oak Lawn",
+      "category": "truck",
+      "area": "Chicago · South Cicero Avenue (Southwest Side)",
+      "address": "8181 S Cicero Ave, Chicago, IL 60652",
+      "phone": "(708) 229-8360",
+      "website": "https://www.budgettruck.com/locations/il/chicago/606523",
+      "bookingUrl": "https://www.budgettruck.com/locations/il/chicago/606523",
+      "hours": {
+        "monday": "8:00 AM–5:00 PM",
+        "tuesday": "8:00 AM–5:00 PM",
+        "wednesday": "8:00 AM–5:00 PM",
+        "thursday": "8:00 AM–5:00 PM",
+        "friday": "8:00 AM–5:00 PM",
+        "saturday": "8:00 AM–1:00 PM",
+        "sunday": "8:00 AM–11:00 AM",
+        "notes": "Hours from the official Budget location page, which lists Sunday 8 a.m.–11 a.m., Monday–Friday 8 a.m.–5 p.m., and Saturday 8 a.m.–1 p.m. The page’s after-hours drop instruction says to park at the right open space."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details we captured, so that flag is off.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "The branch name says Oak Lawn, but Budget lists a Chicago address. Sunday hours are a short morning window only.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Budget Budget Truck of Oak Lawn location page location page",
+          "url": "https://www.budgettruck.com/locations/il/chicago/606523"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Fallen Movers",
+      "category": "labor",
+      "area": "Chicago · West Congress Parkway (Near West Side)",
+      "address": "2729 W Congress Pkwy #2, Chicago, IL 60612",
+      "phone": "(312) 469-9873",
+      "website": "https://www.fallen-movers.com/services/moving-labor",
+      "bookingUrl": "https://www.fallen-movers.com/services/moving-labor",
+      "hours": {
+        "monday": "9:00 AM–8:00 PM",
+        "tuesday": "9:00 AM–8:00 PM",
+        "wednesday": "9:00 AM–8:00 PM",
+        "thursday": "9:00 AM–8:00 PM",
+        "friday": "9:00 AM–8:00 PM",
+        "saturday": "9:00 AM–8:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official moving-labor page, which lists Monday–Saturday 9:00 AM–8:00 PM and Sunday closed."
+      },
+      "offers": [
+        "Labor-only moving help",
+        "Rental truck loading and unloading",
+        "PODS and storage container loading and unloading"
+      ],
+      "offersNotes": "The official page describes Fallen Movers as a labor-only moving company serving Chicago, with loading and unloading for rental trucks, PODS, and storage containers, plus in-home furniture moving.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Published as closed Sunday. Confirm crew availability for your date.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Fallen Movers moving labor page",
+          "url": "https://www.fallen-movers.com/services/moving-labor"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Forrester Moving — Load Help",
+      "category": "labor",
+      "area": "Chicago · North Sangamon Street (West Loop)",
+      "address": "159 N Sangamon St, Suite 200, Chicago, IL 60607",
+      "phone": "(888) 711-4778",
+      "website": "https://forrestormoving.com/services/load-help/",
+      "bookingUrl": "https://forrestormoving.com/services/load-help/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–7:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "Not published",
+        "notes": "Office hours from the official load-help and contact pages, which list Monday–Saturday 7am–7pm. Sunday is not published."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Rental truck loading (U-Haul, Penske, Budget)",
+        "PODS, ABF, and shipping container loading"
+      ],
+      "offersNotes": "The official load-help page says loading and unloading is offered on a labor-only basis across Chicago: you handle the rental, POD, or container and the crew does the lifting. Its FAQ says the crew does not drive the rental truck or shuttle the POD.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "The published hours are office hours; confirm crew availability for your date.",
+      "feeNotes": "The load-help page shows hourly rates starting from $150/hr for a two-mover crew with a two-hour minimum, as listed on 2026-11-18. The same pricing block also mentions a truck being built into the price, so confirm the labor-only rate when you request a quote.",
+      "sources": [
+        {
+          "label": "Forrester Moving load-help page",
+          "url": "https://forrestormoving.com/services/load-help/"
+        },
+        {
+          "label": "Forrester Moving contact page",
+          "url": "https://forrestormoving.com/contact/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "ACM Movers (Evanston office)",
+      "category": "labor",
+      "area": "Evanston · West Howard Street (on the Chicago city line; clearly labeled suburban office)",
+      "address": "415 W Howard St, Evanston, IL 60202",
+      "phone": "(872) 212-5599",
+      "website": "https://acmmovers.com/labor-only-movers-chicago/",
+      "bookingUrl": "https://acmmovers.com/labor-only-movers-chicago/",
+      "hours": {
+        "monday": "8:00 AM–8:30 PM",
+        "tuesday": "8:00 AM–8:00 PM",
+        "wednesday": "8:00 AM–8:00 PM",
+        "thursday": "8:00 AM–8:00 PM",
+        "friday": "8:00 AM–8:00 PM",
+        "saturday": "9:00 AM–6:00 PM",
+        "sunday": "9:00 AM–4:00 PM",
+        "notes": "Business hours from the official Chicago labor-only page: Monday 8:00AM–8:30PM, Tuesday–Friday 8:00AM–8:00PM, Saturday 9:00AM–6:00PM, Sunday 9:00AM–4:00PM. The same page also lists an Arlington Heights address (3361 N Ridge Ave)."
+      },
+      "offers": [
+        "Labor-only moving help",
+        "Rental truck loading and unloading",
+        "PODS and U-Pack container loading and unloading",
+        "Storage unit loading and unloading"
+      ],
+      "offersNotes": "The official page says labor-only moving means you provide the transportation and ACM Movers provides the crew. It lists loading U-Haul, Penske, and Budget trucks, PODS and U-Pack containers, ABF trailers, and storage units.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This office is in Evanston, not inside Chicago city limits; the page markets labor-only service in Chicago. Confirm crew availability for your date.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "ACM Movers Chicago labor-only page",
+          "url": "https://acmmovers.com/labor-only-movers-chicago/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}
