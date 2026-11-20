@@ -1,0 +1,486 @@
+{
+  "slug": "tx-dallas",
+  "city": "Dallas",
+  "citySlug": "dallas",
+  "state": "TX",
+  "stateName": "Texas",
+  "focus": "Penske and Budget truck-rental desks inside the city of Dallas (East, West, Northwest, South, and Far North Dallas), plus two labor-only crews with Dallas offices",
+  "lastUpdated": "2026-11-19",
+  "intro": "This first Dallas page covers official Penske and Budget truck-rental locations whose own location pages list a Dallas address — including four Home Depot desks open until 7:30 PM every day — plus two labor-only movers whose own sites publish a Dallas address and hours. It is not a complete citywide inventory, and it does not report live truck counts; U-Haul, Fort Worth, and the suburbs are not covered yet. One-way and cargo-van flags are on only when the location page mentions those services. If you already have a truck or container, use the labor-only filter or the HireAHelper box further down the page.",
+  "listings": [
+    {
+      "name": "Penske Truck Rental at The Home Depot #550",
+      "category": "truck",
+      "area": "Dallas · Garland Road (East Dallas, near Jupiter Rd)",
+      "address": "11255 Garland Rd, Dallas, TX 75218",
+      "phone": "214-309-7673",
+      "website": "https://www.pensketruckrental.com/locations/us/texas/dallas/627321/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/dallas/627321/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "8:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction on Dallas pages appears to be generic (it mentions 1st Avenue at several locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/texas/dallas/627321/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #6804",
+      "category": "truck",
+      "area": "Dallas · Skillman Street (Lake Highlands / Northeast Dallas)",
+      "address": "6000 Skillman, Dallas, TX 75231",
+      "phone": "972-980-9198",
+      "website": "https://www.pensketruckrental.com/locations/us/texas/dallas/627389/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/dallas/627389/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "8:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction on Dallas pages appears to be generic (it mentions 1st Avenue at several locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/texas/dallas/627389/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #6816",
+      "category": "truck",
+      "area": "Dallas · Fort Worth Avenue (West Dallas)",
+      "address": "2610 Fort Worth Ave, Dallas, TX 75211",
+      "phone": "972-224-9045",
+      "website": "https://www.pensketruckrental.com/locations/us/texas/dallas/718066/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/dallas/718066/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "8:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction on Dallas pages appears to be generic (it mentions 1st Avenue at several locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/texas/dallas/718066/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Penske Truck Rental at The Home Depot #0589",
+      "category": "truck",
+      "area": "Dallas · Lemmon Avenue (Love Field area)",
+      "address": "6110 Lemmon Ave, Dallas, TX 75209",
+      "phone": "214-827-6799",
+      "website": "https://www.pensketruckrental.com/locations/us/texas/dallas/718069/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/dallas/718069/",
+      "hours": {
+        "monday": "8:00 AM–7:30 PM",
+        "tuesday": "8:00 AM–7:30 PM",
+        "wednesday": "8:00 AM–7:30 PM",
+        "thursday": "8:00 AM–7:30 PM",
+        "friday": "8:00 AM–7:30 PM",
+        "saturday": "8:00 AM–7:30 PM",
+        "sunday": "8:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction on Dallas pages appears to be generic (it mentions 1st Avenue at several locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/texas/dallas/718069/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Penske Truck Rental — Penske Dallas",
+      "category": "truck",
+      "area": "Dallas · Goodnight Lane (Northwest Dallas)",
+      "address": "10801 Goodnight Ln, Dallas, TX 75220",
+      "phone": "972-243-0050",
+      "website": "https://www.pensketruckrental.com/locations/us/texas/dallas/011910/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/dallas/011910/",
+      "hours": {
+        "monday": "6:00 AM–5:00 PM",
+        "tuesday": "6:00 AM–5:00 PM",
+        "wednesday": "6:00 AM–5:00 PM",
+        "thursday": "6:00 AM–5:00 PM",
+        "friday": "6:00 AM–5:00 PM",
+        "saturday": "7:00 AM–12:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction on Dallas pages appears to be generic (it mentions 1st Avenue at several locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Published as closed Sunday. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/texas/dallas/011910/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Penske Truck Rental — Penske Dallas Irving Blvd",
+      "category": "truck",
+      "area": "Dallas · Irving Boulevard (Design District / Stemmons area)",
+      "address": "4435 Irving Blvd, Dallas, TX 75247",
+      "phone": "214-638-2200",
+      "website": "https://www.pensketruckrental.com/locations/us/texas/dallas/718010/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/dallas/718010/",
+      "hours": {
+        "monday": "7:00 AM–5:00 PM",
+        "tuesday": "7:00 AM–5:00 PM",
+        "wednesday": "7:00 AM–5:00 PM",
+        "thursday": "7:00 AM–5:00 PM",
+        "friday": "7:00 AM–5:00 PM",
+        "saturday": "7:00 AM–12:00 PM",
+        "sunday": "8:00 AM–12:00 PM",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction on Dallas pages appears to be generic (it mentions 1st Avenue at several locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/texas/dallas/718010/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Penske Truck Rental — Penske South Dallas",
+      "category": "truck",
+      "area": "Dallas · Bonnie View Road (South Dallas)",
+      "address": "10500 Bonnie View Rd, Dallas, TX 75241",
+      "phone": "214-561-0500",
+      "website": "https://www.pensketruckrental.com/locations/us/texas/dallas/718510/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/dallas/718510/",
+      "hours": {
+        "monday": "7:00 AM–5:00 PM",
+        "tuesday": "7:00 AM–5:00 PM",
+        "wednesday": "7:00 AM–5:00 PM",
+        "thursday": "7:00 AM–5:00 PM",
+        "friday": "7:00 AM–5:00 PM",
+        "saturday": "8:00 AM–12:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction on Dallas pages appears to be generic (it mentions 1st Avenue at several locations); confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Published as closed Sunday. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/texas/dallas/718510/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Budget Truck Rental — Swif-t",
+      "category": "truck",
+      "area": "Dallas · Samuell Boulevard (East Dallas, near Fair Park)",
+      "address": "2908 Samuell Blvd, Suite 100, Dallas, TX 75223",
+      "phone": "(214) 942-7501",
+      "website": "https://www.budgettruck.com/locations/tx/dallas/752230",
+      "bookingUrl": "https://www.budgettruck.com/locations/tx/dallas/752230",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–7:00 PM",
+        "saturday": "8:00 AM–7:00 PM",
+        "sunday": "10:00 AM–6:00 PM",
+        "notes": "Hours from the official Budget location page."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details, so that flag is off. The location page lists after-hours drop, boxes and supplies, liftgates, and Spanish spoken, and notes the location is near a gas station.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Open Saturday and Sunday per the location page. Confirm that a vehicle in the size you need is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Budget location page",
+          "url": "https://www.budgettruck.com/locations/tx/dallas/752230"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Budget Truck Rental — Budget of Garland",
+      "category": "truck",
+      "area": "Dallas · East Northwest Highway (Lake Highlands / East Dallas)",
+      "address": "11822 E Northwest Hwy, Dallas, TX 75218",
+      "phone": "(214) 321-4178",
+      "website": "https://www.budgettruck.com/locations/tx/dallas/752182",
+      "bookingUrl": "https://www.budgettruck.com/locations/tx/dallas/752182",
+      "hours": {
+        "monday": "7:30 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "8:00 AM–12:00 PM",
+        "sunday": "8:00 AM–12:00 PM",
+        "notes": "Hours from the official Budget location page. The page lists Monday separately (7:30 AM–6:00 PM) from Tuesday–Friday (8:00 AM–6:00 PM)."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details, so that flag is off. The location page gives an after-hours drop-off instruction (park at the left open space).",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Open Saturday and Sunday per the location page. Confirm that a vehicle in the size you need is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Budget location page",
+          "url": "https://www.budgettruck.com/locations/tx/dallas/752182"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Budget Truck Rental — Avis Budget Car Truck Plano S",
+      "category": "truck",
+      "area": "Dallas · Preston Road (Far North Dallas)",
+      "address": "19177 Preston Road, Suite 190a, Dallas, TX 75252",
+      "phone": "(972) 733-0324",
+      "website": "https://www.budgettruck.com/locations/tx/dallas/752523",
+      "bookingUrl": "https://www.budgettruck.com/locations/tx/dallas/752523",
+      "hours": {
+        "monday": "7:30 AM–6:00 PM",
+        "tuesday": "7:30 AM–6:00 PM",
+        "wednesday": "7:30 AM–6:00 PM",
+        "thursday": "7:30 AM–6:00 PM",
+        "friday": "7:30 AM–6:00 PM",
+        "saturday": "8:00 AM–2:00 PM",
+        "sunday": "8:00 AM–12:00 PM",
+        "notes": "Hours from the official Budget location page."
+      },
+      "offers": [
+        "Cargo vans",
+        "12 ft trucks",
+        "16 ft trucks",
+        "26 ft trucks"
+      ],
+      "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, and 26 ft truck. The page does not state one-way service in the location details, so that flag is off. ",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": true
+      },
+      "visitNotes": "Open Saturday and Sunday per the location page. Confirm that a vehicle in the size you need is actually on the lot.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Budget location page",
+          "url": "https://www.budgettruck.com/locations/tx/dallas/752523"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Evolution Moving Company — Dallas labor only",
+      "category": "labor",
+      "area": "Dallas · Greenville Avenue (North Dallas, near LBJ)",
+      "address": "11884 Greenville Ave #100A, Dallas, TX 75243",
+      "phone": "682-651-5505",
+      "website": "https://evolutionmoving.com/dallas/labor-only/",
+      "bookingUrl": "https://evolutionmoving.com/dallas/labor-only/",
+      "hours": {
+        "monday": "7:30 AM–7:30 PM",
+        "tuesday": "7:30 AM–7:30 PM",
+        "wednesday": "7:30 AM–7:30 PM",
+        "thursday": "7:30 AM–7:30 PM",
+        "friday": "7:30 AM–7:30 PM",
+        "saturday": "7:30 AM–7:30 PM",
+        "sunday": "7:30 AM–7:30 PM",
+        "notes": "The Dallas labor-only page lists the Greenville Ave address with hours “Mon to Sun, 7:30 AM to 7:30 PM.” The page header also shows a different phone number, (830) 542-8608; the number listed with the Dallas address is used here."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Rental truck, pod, and container loading"
+      ],
+      "offersNotes": "The official page says the crew will load or unload your rental truck, pod, or container anywhere in Dallas, with all equipment included.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Confirm crew availability for your date. The page says a one-hour deposit holds a local date.",
+      "feeNotes": "As listed on 2026-11-19: the page says Dallas labor-only uses the same hourly rate card as its full moves — $160/hr (2 movers), $220/hr (3 movers), $310/hr (4 movers), $375/hr (5 movers) — with a two-hour minimum plus travel time.",
+      "sources": [
+        {
+          "label": "Evolution Moving Dallas labor-only page",
+          "url": "https://evolutionmoving.com/dallas/labor-only/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Dallas Packing Service — Loading/Unloading (Labor Only)",
+      "category": "labor",
+      "area": "Dallas · Greenville Avenue (Lake Highlands area)",
+      "address": "6932 Greenville Ave, #159, Dallas, TX 75231",
+      "phone": "469-844-7582",
+      "website": "https://www.dallaspackingservice.com/loading",
+      "bookingUrl": "https://www.dallaspackingservice.com/loading",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–7:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "7:00 AM–7:00 PM",
+        "notes": "Hours from the official loading page: Monday–Sunday 7:00 AM–7:00 PM. The page says to text “MOVE” to the listed number for a quote."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Rental truck and container loading (U-Haul, Penske, Budget, PODS, Pak Rat, ABF)"
+      ],
+      "offersNotes": "The official page says it professionally loads and unloads rental trucks, PODS, Pak Rat containers, ABF storage units, U-Hauls, and Penske and Budget trucks.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Confirm crew availability for your date.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Dallas Packing Service loading page",
+          "url": "https://www.dallaspackingservice.com/loading"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    }
+  ]
+}
