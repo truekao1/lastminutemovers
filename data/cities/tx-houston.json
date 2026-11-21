@@ -1,0 +1,796 @@
+{
+ "slug": "tx-houston",
+ "city": "Houston",
+ "citySlug": "houston",
+ "state": "TX",
+ "stateName": "Texas",
+ "focus": "Penske and Budget truck-rental desks with Houston addresses (North, Northwest, West, Southwest, and Southeast Houston, plus one Highway 6 South desk in the Sugar Land ZIP), and four labor-only crews with Houston offices",
+ "lastUpdated": "2026-11-20",
+ "intro": "This first Houston page covers official Penske and Budget truck-rental locations whose own location pages list a Houston address — including eleven Home Depot desks open seven days a week, most until 7:30 PM — plus four labor-only movers whose own sites publish a Houston address and hours. It is not a complete citywide inventory, and it does not report live truck counts; U-Haul, Enterprise, and most suburbs are not covered yet. One-way and cargo-van flags are on only when the location page mentions those services. If you already have a truck or container, use the labor-only filter or the HireAHelper box further down the page.",
+ "listings": [
+  {
+   "name": "Penske Truck Rental at The Home Depot #6806",
+   "category": "truck",
+   "area": "Houston · Eastex Freeway (North Houston)",
+   "address": "10600 Eastex Freeway, Houston, TX 77093",
+   "phone": "281-209-9176",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/029724/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/029724/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/029724/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #6828",
+   "category": "truck",
+   "area": "Houston · FM 1960 West (North Houston / Champions area)",
+   "address": "4159 Fm 1960 W, Houston, TX 77068",
+   "phone": "281-784-1078",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/029747/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/029747/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/029747/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental — 6800 South Loop East Fwy",
+   "category": "truck",
+   "area": "Houston · South Loop East Freeway (Southeast Houston)",
+   "address": "6800 South Loop East Fwy, Houston, TX 77087",
+   "phone": "713-645-9706",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/533010/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/533010/",
+   "hours": {
+    "monday": "7:00 AM–6:00 PM",
+    "tuesday": "7:00 AM–6:00 PM",
+    "wednesday": "7:00 AM–6:00 PM",
+    "thursday": "7:00 AM–6:00 PM",
+    "friday": "7:00 AM–6:00 PM",
+    "saturday": "7:00 AM–12:00 PM",
+    "sunday": "8:00 AM–12:00 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/533010/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #0566",
+   "category": "truck",
+   "area": "Houston · West Loop South (near Bellaire)",
+   "address": "5445 W Loop S, Houston, TX 77081",
+   "phone": "713-660-8943",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/533042/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/533042/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/533042/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental — 11608 Hempstead Hwy",
+   "category": "truck",
+   "area": "Houston · Hempstead Highway (Northwest Houston)",
+   "address": "11608 Hempstead Hwy, Houston, TX 77092",
+   "phone": "713-682-0555",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/626510/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/626510/",
+   "hours": {
+    "monday": "7:00 AM–6:00 PM",
+    "tuesday": "7:00 AM–6:00 PM",
+    "wednesday": "7:00 AM–6:00 PM",
+    "thursday": "7:00 AM–6:00 PM",
+    "friday": "7:00 AM–6:00 PM",
+    "saturday": "7:00 AM–2:00 PM",
+    "sunday": "8:00 AM–12:00 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/626510/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #0577",
+   "category": "truck",
+   "area": "Houston · North Loop West (near the Heights)",
+   "address": "999 N Loop W, Houston, TX 77008",
+   "phone": "713-802-1439",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/626522/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/626522/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/626522/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #6512",
+   "category": "truck",
+   "area": "Houston · SH 249 (Northwest Houston)",
+   "address": "21530 Sh 249, Houston, TX 77070",
+   "phone": "281-397-0945",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/626524/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/626524/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/626524/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #0584",
+   "category": "truck",
+   "area": "Houston · West Sam Houston Parkway (Southwest Houston / Alief)",
+   "address": "6800 W Sam Houston, Houston, TX 77072",
+   "phone": "281-879-6714",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/626525/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/626525/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/626525/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #6558",
+   "category": "truck",
+   "area": "Houston · Westheimer Road (Westchase area)",
+   "address": "8400 Westheimer, Houston, TX 77063",
+   "phone": "713-278-1903",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/626530/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/626530/",
+   "hours": {
+    "monday": "8:00 AM–8:00 PM",
+    "tuesday": "8:00 AM–8:00 PM",
+    "wednesday": "8:00 AM–8:00 PM",
+    "thursday": "8:00 AM–8:00 PM",
+    "friday": "8:00 AM–8:00 PM",
+    "saturday": "8:00 AM–8:00 PM",
+    "sunday": "8:00 AM–6:00 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/626530/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #6838",
+   "category": "truck",
+   "area": "Houston · FM 1960 West (Northwest Houston, Cypress side)",
+   "address": "12727 Fm 1960 W, Houston, TX 77065",
+   "phone": "281-894-9645",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/626554/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/626554/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/626554/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental — 221 E Airtex Dr",
+   "category": "truck",
+   "area": "Houston · East Airtex Drive (North Houston, near IAH)",
+   "address": "221 E Airtex Dr, Houston, TX 77073",
+   "phone": "281-377-2210",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/626810/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/626810/",
+   "hours": {
+    "monday": "7:00 AM–6:00 PM",
+    "tuesday": "7:00 AM–6:00 PM",
+    "wednesday": "7:00 AM–6:00 PM",
+    "thursday": "7:00 AM–6:00 PM",
+    "friday": "7:00 AM–6:00 PM",
+    "saturday": "7:00 AM–12:00 PM",
+    "sunday": "8:00 AM–12:00 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/626810/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #6860",
+   "category": "truck",
+   "area": "Highway 6 South (Houston mailing address, Sugar Land ZIP 77498)",
+   "address": "10419 Highway 6 South, Houston, TX 77498",
+   "phone": "281-530-7655",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/646921/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/646921/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/646921/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #0585",
+   "category": "truck",
+   "area": "Houston · South Highway 6 (West Houston)",
+   "address": "2828 S Highway 6, Houston, TX 77082",
+   "phone": "281-556-5743",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/646926/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/646926/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/646926/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #6506",
+   "category": "truck",
+   "area": "Houston · Highway 6 North (West Houston / Bear Creek)",
+   "address": "6800 Highway 6 North, Houston, TX 77084",
+   "phone": "844-320-2485",
+   "website": "https://www.pensketruckrental.com/locations/us/texas/houston/646929/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/texas/houston/646929/",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "8:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page. The page marks after-hours key drop as open and includes a one-way rental phone line. The printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations); confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/texas/houston/646929/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Budget Truck Rental — Kasim Group Inc",
+   "category": "truck",
+   "area": "Houston · Westheimer Road (Westchase area)",
+   "address": "9330 Westheimer, Houston, TX 77063",
+   "phone": "(713) 953-0293",
+   "website": "https://www.budgettruck.com/locations/tx/houston/770641",
+   "bookingUrl": "https://www.budgettruck.com/locations/tx/houston/770641",
+   "hours": {
+    "monday": "7:30 AM–6:00 PM",
+    "tuesday": "7:30 AM–6:00 PM",
+    "wednesday": "7:30 AM–6:00 PM",
+    "thursday": "7:30 AM–6:00 PM",
+    "friday": "7:30 AM–6:00 PM",
+    "saturday": "9:00 AM–1:00 PM",
+    "sunday": "9:00 AM–1:00 PM",
+    "notes": "Hours from the official Budget location page (M–F 7:30 am–6 pm; Sa and Su 9 am–1 pm)."
+   },
+   "offers": [
+    "Cargo vans",
+    "12 ft trucks",
+    "16 ft trucks",
+    "26 ft trucks"
+   ],
+   "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, 26 ft truck. The page does not state one-way service in the location details, so that flag is off.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": true
+   },
+   "visitNotes": "Open Saturday and Sunday mornings per the location page. Confirm that a vehicle in the size you need is actually on the lot.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Budget location page",
+     "url": "https://www.budgettruck.com/locations/tx/houston/770641"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Budget Truck Rental — Budget of Medical Center",
+   "category": "truck",
+   "area": "Houston · Kirby Drive (near the Texas Medical Center)",
+   "address": "6935 Kirby Dr, Houston, TX 77030",
+   "phone": "(713) 664-0711",
+   "website": "https://www.budgettruck.com/locations/tx/houston/770303",
+   "bookingUrl": "https://www.budgettruck.com/locations/tx/houston/770303",
+   "hours": {
+    "monday": "7:30 AM–6:00 PM",
+    "tuesday": "7:30 AM–6:00 PM",
+    "wednesday": "7:30 AM–6:00 PM",
+    "thursday": "7:30 AM–6:00 PM",
+    "friday": "7:30 AM–6:00 PM",
+    "saturday": "9:00 AM–1:00 PM",
+    "sunday": "9:00 AM–1:00 PM",
+    "notes": "Hours from the official Budget location page (M–F 7:30 am–6 pm; Sa and Su 9 am–1 pm)."
+   },
+   "offers": [
+    "Cargo vans",
+    "12 ft trucks",
+    "16 ft trucks",
+    "26 ft trucks"
+   ],
+   "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, 26 ft truck. The page does not state one-way service in the location details, so that flag is off.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": true
+   },
+   "visitNotes": "Open Saturday and Sunday mornings per the location page. Confirm that a vehicle in the size you need is actually on the lot.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Budget location page",
+     "url": "https://www.budgettruck.com/locations/tx/houston/770303"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "3 Men Movers — Houston labor-only movers",
+   "category": "labor",
+   "area": "Houston · Sands Point Drive (Southwest Houston)",
+   "address": "6805 Sands Point Dr, Houston, TX 77074",
+   "phone": "(713) 333-6683",
+   "website": "https://www.3menmovers.com/moving-service-areas/houston/",
+   "bookingUrl": "https://www.3menmovers.com/moving-service-areas/houston/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–7:00 PM",
+    "saturday": "7:00 AM–5:00 PM",
+    "sunday": "7:00 AM–3:00 PM",
+    "notes": "Office hours from the official Houston page: Mon–Fri 7 AM–7 PM, Sat 7 AM–5 PM, Sun 7 AM–3 PM."
+   },
+   "offers": [
+    "Labor-only loading and unloading"
+   ],
+   "offersNotes": "The official Houston page lists “Labor Only Movers”: “You handle the truck - we’ll take care of the heavy lifting.” The page also mentions a two-hour minimum.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Confirm crew availability for your date.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "3 Men Movers Houston page",
+     "url": "https://www.3menmovers.com/moving-service-areas/houston/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "College HUNKS Hauling Junk & Moving — Houston hourly labor",
+   "category": "labor",
+   "area": "Houston · West 34th Street (Northwest Houston)",
+   "address": "4800 W. 34th Street, B2, Houston, TX 77092",
+   "phone": "281-674-6250",
+   "website": "https://www.collegehunkshaulingjunk.com/central-houston/labor/",
+   "bookingUrl": "https://www.collegehunkshaulingjunk.com/central-houston/labor/",
+   "hours": {
+    "monday": "8:00 AM–9:00 PM",
+    "tuesday": "8:00 AM–9:00 PM",
+    "wednesday": "8:00 AM–9:00 PM",
+    "thursday": "8:00 AM–9:00 PM",
+    "friday": "8:00 AM–9:00 PM",
+    "saturday": "8:00 AM–9:00 PM",
+    "sunday": "9:00 AM–9:00 PM",
+    "notes": "Hours from the official Houston labor page: Monday–Saturday 8:00 am–9:00 pm, Sunday 9:00 am–9:00 pm. The page header also shows a national number, 833-626-1326; the number listed with the Houston address is used here."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Truck, portable storage, and storage unit loading",
+    "Packing and unpacking"
+   ],
+   "offersNotes": "The official page offers hourly labor including loading and unloading of moving trucks, personal trucks, vans, portable storage, and storage units. It says next-day or same-day service is possible in many cases.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Confirm crew availability for your date. Pricing is quoted by number of crew members and hours.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "College HUNKS Houston labor page",
+     "url": "https://www.collegehunkshaulingjunk.com/central-houston/labor/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Ameritex Movers — Rental truck loading and unloading",
+   "category": "labor",
+   "area": "Houston · West Sam Houston Parkway South (Southwest Houston)",
+   "address": "9200 W Sam Houston Parkway S, Houston, TX 77099",
+   "phone": "(713) 484-6683",
+   "website": "https://www.ameritexhouston.com/services-products/loading-unloading/",
+   "bookingUrl": "https://www.ameritexhouston.com/services-products/loading-unloading/",
+   "hours": {
+    "monday": "8:00 AM–6:00 PM",
+    "tuesday": "8:00 AM–6:00 PM",
+    "wednesday": "8:00 AM–6:00 PM",
+    "thursday": "8:00 AM–6:00 PM",
+    "friday": "8:00 AM–6:00 PM",
+    "saturday": "8:00 AM–5:00 PM",
+    "sunday": "8:00 AM–4:00 PM",
+    "notes": "Office hours from the official loading and unloading page: Mon–Fri 8:00 AM–6:00 PM, Sat 8:00 AM–5:00 PM, Sun 8:00 AM–4:00 PM. The page lists separate Dallas, Fort Worth, and Houston numbers; the Houston number is used here."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Rental truck loading"
+   ],
+   "offersNotes": "The official page says Ameritex offers loading and unloading labor separately, so customers can arrange their own rental truck.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Confirm crew availability for your date.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Ameritex loading and unloading page",
+     "url": "https://www.ameritexhouston.com/services-products/loading-unloading/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Power Movers — Houston labor-only help",
+   "category": "labor",
+   "area": "Houston · East 29th Street (near the Heights / Northside)",
+   "address": "1310 E. 29th St., Houston, TX 77009",
+   "phone": "(832) 940-6683",
+   "website": "https://powermovers.com/locations/houston/",
+   "bookingUrl": "https://powermovers.com/locations/houston/",
+   "hours": {
+    "monday": "8:00 AM–8:00 PM",
+    "tuesday": "8:00 AM–8:00 PM",
+    "wednesday": "8:00 AM–8:00 PM",
+    "thursday": "8:00 AM–8:00 PM",
+    "friday": "8:00 AM–8:00 PM",
+    "saturday": "8:00 AM–5:00 PM",
+    "sunday": "8:00 AM–8:00 PM",
+    "notes": "Hours from the official Houston page: Mon–Fri 8:00 AM–8:00 PM, Sat 8:00 AM–5:00 PM, Sun 8:00 AM–8:00 PM."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Truck and container loading"
+   ],
+   "offersNotes": "The official Houston page says its labor-only movers can load and unload your truck or container, including furniture disassembly and reassembly.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Confirm crew availability for your date.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Power Movers Houston page",
+     "url": "https://powermovers.com/locations/houston/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  }
+ ]
+}
