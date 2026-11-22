@@ -1,0 +1,405 @@
+{
+ "slug": "ga-atlanta",
+ "city": "Atlanta",
+ "citySlug": "atlanta",
+ "state": "GA",
+ "stateName": "Georgia",
+ "focus": "Penske and Budget truck-rental desks with Atlanta addresses (Downtown, Lindbergh/Buckhead, Cumberland, Perimeter, Upper Westside, West Fulton, and near the airport), plus three labor-only crews based in Norcross, Stone Mountain, and Alpharetta that serve Atlanta",
+ "lastUpdated": "2026-11-21",
+ "intro": "This first Atlanta page covers official Penske and Budget truck-rental locations whose own location pages list an Atlanta address — including three Home Depot desks open seven days a week until 7:30 PM — plus three labor-only movers whose own sites publish a metro Atlanta address and say they will load or unload a truck or container you already have. It is not a complete citywide inventory, and it does not report live truck counts; U-Haul, Enterprise, and most suburbs are not covered yet. One-way and cargo-van flags are on only when the location page mentions those services. If you already have a truck or container, use the labor-only filter or the HireAHelper box further down the page.",
+ "listings": [
+  {
+   "name": "Penske Truck Rental at The Home Depot #0121",
+   "category": "truck",
+   "area": "Atlanta · Cumberland Parkway (Cumberland / Vinings area)",
+   "address": "2450 Cumberland Pkwy SE, Atlanta, GA 30339",
+   "phone": "770-801-8742",
+   "website": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/003027/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/003027/",
+   "hours": {
+    "monday": "6:00 AM–7:30 PM",
+    "tuesday": "6:00 AM–7:30 PM",
+    "wednesday": "6:00 AM–7:30 PM",
+    "thursday": "6:00 AM–7:30 PM",
+    "friday": "6:00 AM–7:30 PM",
+    "saturday": "6:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page (Monday–Friday 6:00 AM–7:30 PM, Saturday 6:00 AM–7:30 PM, Sunday 8:00 AM–7:30 PM). The page marks after-hours key drop as open; the printed key-drop instruction appears to be generic (it mentions 1st Avenue at many locations), so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned in the location details.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/003027/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #6986",
+   "category": "truck",
+   "area": "Atlanta · Piedmont Road NE (Lindbergh / Buckhead)",
+   "address": "2525 Piedmont Rd NE, Atlanta, GA 30324",
+   "phone": "404-841-5674",
+   "website": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/031725/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/031725/",
+   "hours": {
+    "monday": "6:00 AM–7:30 PM",
+    "tuesday": "6:00 AM–7:30 PM",
+    "wednesday": "6:00 AM–7:30 PM",
+    "thursday": "6:00 AM–7:30 PM",
+    "friday": "6:00 AM–7:30 PM",
+    "saturday": "6:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page (Monday–Friday 6:00 AM–7:30 PM, Saturday 6:00 AM–7:30 PM, Sunday 8:00 AM–7:30 PM). The page marks after-hours key drop as open; the printed key-drop instruction appears to be generic, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned in the location details.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/031725/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #0154",
+   "category": "truck",
+   "area": "Atlanta · Peachtree-Dunwoody Road (Perimeter / Sandy Springs edge)",
+   "address": "6400 Peachtree-Dunwoody Rd, Atlanta, GA 30328",
+   "phone": "404-845-0116",
+   "website": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/014232/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/014232/",
+   "hours": {
+    "monday": "7:00 AM–7:30 PM",
+    "tuesday": "7:00 AM–7:30 PM",
+    "wednesday": "7:00 AM–7:30 PM",
+    "thursday": "7:00 AM–7:30 PM",
+    "friday": "7:00 AM–7:30 PM",
+    "saturday": "7:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page (Monday–Friday 7:00 AM–7:30 PM, Saturday 7:00 AM–7:30 PM, Sunday 8:00 AM–7:30 PM). The page marks after-hours key drop as open; the printed key-drop instruction appears to be generic, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned in the location details.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/014232/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Penske Truck Rental — Atlanta Downtown (1390 Marietta Blvd)",
+   "category": "truck",
+   "area": "Atlanta · Marietta Boulevard (Upper Westside)",
+   "address": "1390 Marietta Blvd, Atlanta, GA 30318",
+   "phone": "404-350-6793",
+   "website": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/031710/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/031710/",
+   "hours": {
+    "monday": "7:00 AM–5:00 PM",
+    "tuesday": "7:00 AM–3:00 PM",
+    "wednesday": "7:00 AM–3:00 PM",
+    "thursday": "7:00 AM–3:00 PM",
+    "friday": "7:00 AM–5:00 PM",
+    "saturday": "7:00 AM–12:00 PM",
+    "sunday": "Closed",
+    "notes": "Hours from the official Penske location page: Monday and Friday 7:00 AM–5:00 PM, Tuesday–Thursday 7:00 AM–3:00 PM, Saturday 7:00 AM–12:00 PM, Sunday closed. The page marks after-hours key drop as open; confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned in the location details.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday morning per the location page; closed Sunday. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/031710/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Penske Truck Rental — Atlanta West Fulton",
+   "category": "truck",
+   "area": "Atlanta · Fulton Industrial Boulevard SW (West Fulton)",
+   "address": "4605 Fulton Industrial Blvd SW, Atlanta, GA 30336",
+   "phone": "404-691-3020",
+   "website": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/003010/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/003010/",
+   "hours": {
+    "monday": "7:00 AM–5:00 PM",
+    "tuesday": "7:00 AM–5:00 PM",
+    "wednesday": "7:00 AM–5:00 PM",
+    "thursday": "7:00 AM–5:00 PM",
+    "friday": "7:00 AM–5:00 PM",
+    "saturday": "7:00 AM–12:00 PM",
+    "sunday": "8:00 AM–12:00 PM",
+    "notes": "Hours from the official Penske location page (Monday–Friday 7:00 AM–5:00 PM, Saturday 7:00 AM–12:00 PM, Sunday 8:00 AM–12:00 PM). The page marks after-hours key drop as open; confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned in the location details.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/003010/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Penske Truck Rental — Atlanta South",
+   "category": "truck",
+   "area": "Atlanta · Tradeport Boulevard (near the airport, south Atlanta)",
+   "address": "345 Tradeport Blvd, Atlanta, GA 30354",
+   "phone": "404-361-8291",
+   "website": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/625810/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/625810/",
+   "hours": {
+    "monday": "7:00 AM–5:00 PM",
+    "tuesday": "7:00 AM–5:00 PM",
+    "wednesday": "7:00 AM–5:00 PM",
+    "thursday": "7:00 AM–5:00 PM",
+    "friday": "7:00 AM–5:00 PM",
+    "saturday": "7:00 AM–12:00 PM",
+    "sunday": "Closed",
+    "notes": "Hours from the official Penske location page (Monday–Friday 7:00 AM–5:00 PM, Saturday 7:00 AM–12:00 PM, Sunday closed). The page marks after-hours key drop as open; confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line. Truck sizes on the lot are not listed as a fixed inventory here, and cargo vans are not mentioned in the location details.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday morning per the location page; closed Sunday. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/georgia/atlanta/625810/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Budget Truck Rental — Brac Atlanta Downtown",
+   "category": "truck",
+   "area": "Atlanta · Courtland Street (Downtown)",
+   "address": "140 Courtland St., Atlanta, GA 30303",
+   "phone": "(404) 302-9254",
+   "website": "https://www.budgettruck.com/locations/ga/atlanta/303032",
+   "bookingUrl": "https://www.budgettruck.com/locations/ga/atlanta/303032",
+   "hours": {
+    "monday": "8:00 AM–6:00 PM",
+    "tuesday": "8:00 AM–6:00 PM",
+    "wednesday": "8:00 AM–6:00 PM",
+    "thursday": "8:00 AM–6:00 PM",
+    "friday": "8:00 AM–6:00 PM",
+    "saturday": "8:00 AM–2:00 PM",
+    "sunday": "9:00 AM–2:00 PM",
+    "notes": "Hours from the official Budget location page (M–F 8 am–6 pm; Sa 8 am–2 pm; Su 9 am–2 pm). The page also lists a second phone number, (404) 530-3000."
+   },
+   "offers": [
+    "Cargo vans",
+    "12 ft trucks",
+    "16 ft trucks",
+    "26 ft trucks"
+   ],
+   "offersNotes": "“Trucks Offered” on the official location page: cargo van, 12 ft truck, 16 ft truck, 26 ft truck. The page does not state one-way service in the location details, so that flag is off.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": true
+   },
+   "visitNotes": "Open Saturday and Sunday mornings into early afternoon per the location page. Confirm that a vehicle in the size you need is actually on the lot.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Budget location page",
+     "url": "https://www.budgettruck.com/locations/ga/atlanta/303032"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "College HUNKS Hauling Junk & Moving — Atlanta hourly labor",
+   "category": "labor",
+   "area": "Metro Atlanta · office on Corners Industrial Court (Norcross)",
+   "address": "6670 Corners Industrial Court, Ste A, Norcross, GA 30092",
+   "phone": "404-996-1800",
+   "website": "https://www.collegehunkshaulingjunk.com/atlanta/labor/",
+   "bookingUrl": "https://www.collegehunkshaulingjunk.com/atlanta/labor/",
+   "hours": {
+    "monday": "8:00 AM–9:00 PM",
+    "tuesday": "8:00 AM–9:00 PM",
+    "wednesday": "8:00 AM–9:00 PM",
+    "thursday": "8:00 AM–9:00 PM",
+    "friday": "8:00 AM–9:00 PM",
+    "saturday": "8:00 AM–9:00 PM",
+    "sunday": "9:00 AM–9:00 PM",
+    "notes": "Hours from the official Atlanta labor page: Monday–Saturday 8:00 am–9:00 pm, Sunday 9:00 am–9:00 pm. The page header also shows a national number, 833-626-1326; the number listed with the Atlanta office address is used here."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Truck, portable storage, and storage unit loading",
+    "Packing and unpacking"
+   ],
+   "offersNotes": "The official page offers labor-only moving help by the hour, including loading and unloading your moving truck, storage unit, or portable storage. The office is in Norcross; the page lists Atlanta among the areas served.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Confirm crew availability for your date. Pricing is quoted by number of crew members and hours.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "College HUNKS Atlanta labor page",
+     "url": "https://www.collegehunkshaulingjunk.com/atlanta/labor/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "MJC Moving — labor-only moving help",
+   "category": "labor",
+   "area": "Metro Atlanta · based in Stone Mountain",
+   "address": "2165 W Park Ct, Suite P, Stone Mountain, GA 30087",
+   "phone": "(770) 885-9343",
+   "website": "https://mjcmoving.com/labor-only-services/",
+   "bookingUrl": "https://mjcmoving.com/labor-only-services/",
+   "hours": {
+    "monday": "7:00 AM–9:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–9:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–9:00 PM",
+    "saturday": "7:00 AM–9:00 PM",
+    "sunday": "1:00 PM–9:00 PM",
+    "notes": "Hours from the official site header: Monday, Wednesday, Friday, and Saturday 7 AM–9 PM; Tuesday and Thursday 7 AM–7 PM; Sunday 1 PM–9 PM."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Truck and container loading"
+   ],
+   "offersNotes": "The official labor-only page says its crews load U-Haul trucks and other rental trucks, PODS, and ABF U-Pack containers for customers who handle the driving themselves.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Based in Stone Mountain, east of Atlanta. Confirm crew availability for your date.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "MJC Moving labor-only page",
+     "url": "https://mjcmoving.com/labor-only-services/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Brown Thrasher Movers — labor-only moving help",
+   "category": "labor",
+   "area": "Metro Atlanta · based in Alpharetta",
+   "address": "844 Ivy Vine Way, Alpharetta, GA 30004",
+   "phone": "(706) 908-4815",
+   "website": "https://brownthrashermovers.com/labor-only-moving-help/",
+   "bookingUrl": "https://brownthrashermovers.com/labor-only-moving-help/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The labor-only page does not publish business hours."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Truck and portable container loading"
+   ],
+   "offersNotes": "The official page offers hourly moving help for customers who already rented a truck, including truck loading and PODS loading and unloading. It says there are no minimum hours and no travel charge within metro Atlanta.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": false,
+    "cargoVan": false
+   },
+   "visitNotes": "Based in Alpharetta, north of Atlanta. Hours are not published, so call to confirm crew availability for your date.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Brown Thrasher Movers labor-only page",
+     "url": "https://brownthrashermovers.com/labor-only-moving-help/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  }
+ ]
+}
