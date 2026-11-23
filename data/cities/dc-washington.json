@@ -1,0 +1,433 @@
+{
+ "slug": "dc-washington",
+ "city": "Washington",
+ "citySlug": "washington",
+ "state": "DC",
+ "stateName": "District of Columbia",
+ "focus": "Truck-rental desks inside the District (one Penske at the Rhode Island Ave Home Depot, one Budget on Blair Rd NW, and five U-Haul stores and dealers in NoMa, Edgewood, Bladensburg Rd, South Capitol St, and Benning Rd), one Budget desk just across the river in Arlington, VA, and two labor-only options with DC addresses",
+ "lastUpdated": "2026-11-22",
+ "intro": "This first Washington, DC page covers truck-rental locations whose official Penske, Budget, and U-Haul pages list a District address — the Rhode Island Ave NE Home Depot Penske desk, Budget on Blair Rd NW, and five U-Haul stores and dealers, mostly in Northeast DC — plus one Budget desk in Arlington, VA that Budget’s own DC search lists next. Two labor-only options with DC addresses are included for people who already have a truck or container. In-District truck rental is thin: Penske and Budget each list only one location inside DC, and Enterprise Truck Rental does not list one at all, so Maryland and Virginia suburbs (not covered here yet) may be your backup. Two U-Haul stores say there is no customer parking. We do not report live truck counts; one-way and cargo-van flags are on only when the location page itself mentions them.",
+ "listings": [
+  {
+   "name": "Penske Truck Rental at The Home Depot #2583",
+   "category": "truck",
+   "area": "Northeast DC · Rhode Island Ave NE (Brentwood / Edgewood)",
+   "address": "901 Rhode Island Ave NE, Washington, DC 20018",
+   "phone": "202-526-3652",
+   "website": "https://www.pensketruckrental.com/locations/us/district_of_columbia/washington/042888/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/district_of_columbia/washington/042888/",
+   "hours": {
+    "monday": "7:00 AM–8:00 PM",
+    "tuesday": "7:00 AM–8:00 PM",
+    "wednesday": "7:00 AM–8:00 PM",
+    "thursday": "7:00 AM–8:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–8:00 PM",
+    "sunday": "8:00 AM–8:00 PM",
+    "notes": "Hours from the official Penske location page (Mon–Sat 7:00 AM–8:00 PM, Sun 8:00 AM–8:00 PM). The page lists the street as “901 Rhode Island Ave”; the NE quadrant is added from the Home Depot store number and ZIP. It marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). It is the only Penske location the Penske locator lists inside the District. Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/district_of_columbia/washington/042888/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Budget Truck Rental — Budget of Blair Rd",
+   "category": "truck",
+   "area": "Northwest DC · Blair Rd NW (Takoma / Manor Park)",
+   "address": "5911 Blair Rd NW, Washington, DC 20011",
+   "phone": "(202) 882-1470",
+   "website": "https://www.budgettruck.com/locations/dc/washington/200114",
+   "bookingUrl": "https://www.budgettruck.com/locations/dc/washington/200114",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–7:00 PM",
+    "saturday": "8:00 AM–4:00 PM",
+    "sunday": "8:00 AM–4:00 PM",
+    "notes": "Hours from Budget’s official Washington, DC location listing: M–F 7 am–7 pm, Sa 8 am–4 pm, Su 8 am–4 pm. The listing also notes Spanish is spoken."
+   },
+   "offers": [
+    "Cargo vans",
+    "12 ft trucks",
+    "16 ft trucks",
+    "26 ft trucks"
+   ],
+   "offersNotes": "“Trucks Offered” in Budget’s official Washington, DC location listing: cargo van, 12 ft truck, 16 ft truck, 26 ft truck. The listing notes after-hours drop and car rentals at this location. It does not state one-way service for this location, so that flag is off.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": true
+   },
+   "visitNotes": "The only Budget truck location Budget lists inside the District. Open Saturday and Sunday per the listing. Confirm that a vehicle in the size you need is actually on the lot.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Budget Truck Washington, DC location listing",
+     "url": "https://www.budgettruck.com/locations/dc/washington"
+    },
+    {
+     "label": "Official Budget location page",
+     "url": "https://www.budgettruck.com/locations/dc/washington/200114"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Budget Truck Rental — Capital Area Rental LLC (Arlington, VA)",
+   "category": "truck",
+   "area": "Arlington, VA · 10th Street North (Clarendon area, just across the Potomac)",
+   "address": "3206 10th Street North, Arlington, VA 22201",
+   "phone": "(703) 812-0921",
+   "website": "https://www.budgettruck.com/locations/va/arlington/222010",
+   "bookingUrl": "https://www.budgettruck.com/locations/va/arlington/222010",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–7:00 PM",
+    "saturday": "8:00 AM–5:00 PM",
+    "sunday": "9:00 AM–2:00 PM",
+    "notes": "Hours from Budget’s official Washington, DC location listing: M–F 7 am–7 pm, Sa 8 am–5 pm, Su 9 am–2 pm. The listing says it is near a gas station."
+   },
+   "offers": [
+    "Cargo vans",
+    "12 ft trucks",
+    "16 ft trucks",
+    "26 ft trucks"
+   ],
+   "offersNotes": "“Trucks Offered” in Budget’s official Washington, DC location listing: cargo van, 12 ft truck, 16 ft truck, 26 ft truck. The listing notes after-hours drop and car rentals at this location. It does not state one-way service for this location, so that flag is off.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": true
+   },
+   "visitNotes": "Included because Budget’s own Washington, DC search lists it as the next-closest location; it is in Virginia, not the District. Confirm that a vehicle in the size you need is actually on the lot.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Budget Truck Washington, DC location listing",
+     "url": "https://www.budgettruck.com/locations/dc/washington"
+    },
+    {
+     "label": "Official Budget location page",
+     "url": "https://www.budgettruck.com/locations/va/arlington/222010"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Capitol Hill",
+   "category": "truck",
+   "area": "Northeast DC · K St NE at 1st St (NoMa)",
+   "address": "26 K St NE, Washington, DC 20002",
+   "phone": "(202) 289-5480",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20002/818029/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20002/818029/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “@ 1st Ne, No Customer Parking”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, and Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time. The page says there is no customer parking.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Capitol Hill truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20002/818029/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Intown",
+   "category": "truck",
+   "area": "Northeast DC · 5th St NE near Rhode Island Ave (Edgewood)",
+   "address": "2215 5th St NE, Washington, DC 20002",
+   "phone": "(202) 269-1200",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20002/818032/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20002/818032/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “Two Blocks from the Rhode Island Metro Station, 5th and Rhode Island”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, and Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Intown truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20002/818032/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "U-Haul Moving & Storage at Bladensburg",
+   "category": "truck",
+   "area": "Northeast DC · Bladensburg Rd NE at New York Ave",
+   "address": "1750 Bladensburg Rd NE, Washington, DC 20002",
+   "phone": "(202) 529-4676",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20002/818050/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20002/818050/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “@ New York Av”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, and Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time. The page also lists trailer hitch installation.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage at Bladensburg truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20002/818050/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "U-Haul Moving & Storage at S Capitol St SW",
+   "category": "truck",
+   "area": "Southwest DC · South Capitol St at P St (Buzzard Point / Navy Yard area)",
+   "address": "1501 S Capitol St SW, Washington, DC 20003",
+   "phone": "(202) 554-2640",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20003/818037/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20003/818037/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “@ P St NO CUSTOMER PARKING”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, and Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time. The page says there is no customer parking.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage at S Capitol St SW truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20003/818037/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Buckssolutionss (U-Haul Neighborhood Dealer)",
+   "category": "truck",
+   "area": "Northeast DC · Benning Rd (east of the Anacostia River)",
+   "address": "3355 Benning Rd Unit C, Washington, DC 20019",
+   "phone": "(202) 741-5603",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20019/002483/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20019/002483/",
+   "hours": {
+    "monday": "Closed",
+    "tuesday": "9:00 AM–6:00 PM",
+    "wednesday": "9:00 AM–6:00 PM",
+    "thursday": "9:00 AM–6:00 PM",
+    "friday": "9:00 AM–6:00 PM",
+    "saturday": "9:00 AM–6:00 PM",
+    "sunday": "9:00 AM–6:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon closed, Tue–Sun 9 am–6 pm. The business name is spelled “Buckssolutionss” on U-Haul’s page."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official U-Haul page lists Moving Trucks, Trailers & Towing, and Moving Supplies at this neighborhood dealer, with a search for One-Way and In-Town rentals. Cargo vans are not listed for this location.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Neighborhood dealers usually have a smaller fleet than company-owned stores. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul neighborhood dealer page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Washington-DC-20019/002483/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "A-Anytime Movers — load and unload help",
+   "category": "labor",
+   "area": "Northwest DC · 14th St NW (Columbia Heights / U Street)",
+   "address": "2205 14th Street NW, Washington, DC 20009",
+   "phone": "(202) 483-9109",
+   "website": "https://www.anytimemovers.com/moving-services/",
+   "bookingUrl": "https://www.anytimemovers.com/moving-services/",
+   "hours": {
+    "monday": "8:00 AM–6:00 PM",
+    "tuesday": "8:00 AM–6:00 PM",
+    "wednesday": "8:00 AM–6:00 PM",
+    "thursday": "8:00 AM–6:00 PM",
+    "friday": "8:00 AM–6:00 PM",
+    "saturday": "8:00 AM–6:00 PM",
+    "sunday": "Closed",
+    "notes": "Open hours from the official site: 8 am–6 pm Monday–Saturday, closed Sunday."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Rental truck and moving pod loading"
+   ],
+   "offersNotes": "The official services page has a “Load and Unload Help” section: “Just need help loading/unloading your rental truck or moving pod? … Our hourly labor plan is the perfect option for you; We’ll send a 2-4 person crew.”",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Closed Sunday per the site. Confirm crew availability for your date.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "A-Anytime Movers services page",
+     "url": "https://www.anytimemovers.com/moving-services/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Bellhop — Washington, DC hourly moving labor",
+   "category": "labor",
+   "area": "Northeast DC · 10th St NE (Brookland)",
+   "address": "2800 10th St NE, Washington, DC 20017",
+   "phone": "(202) 849-7720",
+   "website": "https://www.getbellhops.com/dc/washington/movers/",
+   "bookingUrl": "https://www.getbellhops.com/dc/washington/movers/",
+   "hours": {
+    "monday": "8:00 AM–9:00 PM",
+    "tuesday": "8:00 AM–9:00 PM",
+    "wednesday": "8:00 AM–9:00 PM",
+    "thursday": "8:00 AM–9:00 PM",
+    "friday": "8:00 AM–9:00 PM",
+    "saturday": "8:00 AM–9:00 PM",
+    "sunday": "8:00 AM–9:00 PM",
+    "notes": "Hours from the official Washington, DC page: Mon–Sat 8:00 AM to 9:00 PM EST, Sun 8:00 AM to 9:00 PM EST."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Storage unit and container loading"
+   ],
+   "offersNotes": "The official DC page offers “Hourly moving help and labor”: “If you don’t need transportation but could use some moving help, Bellhop’s skilled Washington D.C. movers make quick work of loading, unloading, and/or rearranging.” The same page says Bellhop is a federally regulated property broker that connects customers with movers.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Bellhop describes itself as a broker, so the crew may be a partner mover. The page publishes a cancellation policy (free up to 72 hours before the move); read it before booking a last-minute job.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Bellhop Washington, DC movers page",
+     "url": "https://www.getbellhops.com/dc/washington/movers/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  }
+ ]
+}
