@@ -1,0 +1,716 @@
+{
+ "slug": "pa-philadelphia",
+ "city": "Philadelphia",
+ "citySlug": "philadelphia",
+ "state": "PA",
+ "stateName": "Pennsylvania",
+ "focus": "Truck-rental desks inside the city (five Penske locations, including the Roosevelt Blvd Home Depot, and ten company-run U-Haul stores from Center City and South Philadelphia to West Philadelphia, North Philadelphia, and the Northeast), plus two labor-only options",
+ "lastUpdated": "2026-11-23",
+ "intro": "This first Philadelphia page covers truck-rental locations whose official Penske and U-Haul pages list a city address — five Penske desks (Washington Ave, the airport, Port Richmond, Fishtown, and the Roosevelt Blvd Home Depot, the only one open Sunday) and ten company-run U-Haul stores that all publish Sunday hours. Two labor-only options are included for people who already have a truck or container: Bellhop, which lists a South Broad St address, and College HUNKS, whose Philadelphia labor page lists a West Chester office. U-Haul neighborhood dealers, Budget, and Enterprise Truck Rental are not covered yet, and neither are suburbs such as Upper Darby, Cherry Hill, or King of Prussia. Three U-Haul stores say there is no on-site customer parking. We do not report live truck counts; one-way and cargo-van flags are on only when the location page itself mentions them.",
+ "listings": [
+  {
+   "name": "Penske Philadelphia Downtown",
+   "category": "truck",
+   "area": "South Philadelphia · Washington Ave",
+   "address": "1216 Washington Ave, Philadelphia, PA 19147",
+   "phone": "215-271-6340",
+   "website": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/520510/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/520510/",
+   "hours": {
+    "monday": "7:00 AM–5:00 PM",
+    "tuesday": "7:00 AM–5:00 PM",
+    "wednesday": "7:00 AM–5:00 PM",
+    "thursday": "7:00 AM–5:00 PM",
+    "friday": "7:00 AM–5:00 PM",
+    "saturday": "7:00 AM–2:30 PM",
+    "sunday": "Closed",
+    "notes": "Hours from the official Penske location page (Mon–Fri 7:00 AM–5:00 PM, Sat 7:00 AM–2:30 PM, Sun Closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday; closed Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/520510/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Penske Philadelphia Airport",
+   "category": "truck",
+   "area": "Southwest Philadelphia · Essington Ave near PHL airport",
+   "address": "6800 Essington Ave, Philadelphia, PA 19153",
+   "phone": "267-766-9096",
+   "website": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/767610/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/767610/",
+   "hours": {
+    "monday": "7:00 AM–5:00 PM",
+    "tuesday": "7:00 AM–5:00 PM",
+    "wednesday": "7:00 AM–5:00 PM",
+    "thursday": "7:00 AM–5:00 PM",
+    "friday": "7:00 AM–5:00 PM",
+    "saturday": "7:00 AM–2:30 PM",
+    "sunday": "Closed",
+    "notes": "Hours from the official Penske location page (Mon–Fri 7:00 AM–5:00 PM, Sat 7:00 AM–2:30 PM, Sun Closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday; closed Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/767610/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Penske Central Philadelphia",
+   "category": "truck",
+   "area": "Port Richmond · E Westmoreland St",
+   "address": "2215 E Westmoreland St, Philadelphia, PA 19134",
+   "phone": "215-425-8855",
+   "website": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/781010/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/781010/",
+   "hours": {
+    "monday": "7:00 AM–5:00 PM",
+    "tuesday": "7:00 AM–5:00 PM",
+    "wednesday": "7:00 AM–5:00 PM",
+    "thursday": "7:00 AM–5:00 PM",
+    "friday": "7:00 AM–5:00 PM",
+    "saturday": "7:00 AM–2:30 PM",
+    "sunday": "Closed",
+    "notes": "Hours from the official Penske location page (Mon–Fri 7:00 AM–5:00 PM, Sat 7:00 AM–2:30 PM, Sun Closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday; closed Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/781010/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #4112",
+   "category": "truck",
+   "area": "Northeast Philadelphia · Roosevelt Blvd (Juniata / Frankford)",
+   "address": "4640 Roosevelt Blvd, Philadelphia, PA 19124",
+   "phone": "215-698-8337",
+   "website": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/781033/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/781033/",
+   "hours": {
+    "monday": "7:00 AM–7:30 PM",
+    "tuesday": "7:00 AM–7:30 PM",
+    "wednesday": "7:00 AM–7:30 PM",
+    "thursday": "7:00 AM–7:30 PM",
+    "friday": "7:00 AM–7:30 PM",
+    "saturday": "7:00 AM–7:30 PM",
+    "sunday": "8:00 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page (Mon–Fri 7:00 AM–7:30 PM, Sat 7:00 AM–7:30 PM, Sun 8:00 AM–7:30 PM). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday and Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/781033/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Penske Truck Rental at Br Moving",
+   "category": "truck",
+   "area": "Fishtown · N Delaware Ave",
+   "address": "1609 N Delaware Ave, Philadelphia, PA 19125",
+   "phone": "215-426-5289",
+   "website": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/781043/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/781043/",
+   "hours": {
+    "monday": "8:00 AM–5:00 PM",
+    "tuesday": "8:00 AM–5:00 PM",
+    "wednesday": "8:00 AM–5:00 PM",
+    "thursday": "8:00 AM–5:00 PM",
+    "friday": "8:00 AM–5:00 PM",
+    "saturday": "8:00 AM–1:00 PM",
+    "sunday": "Closed",
+    "notes": "Hours from the official Penske location page (Mon–Fri 8:00 AM–5:00 PM, Sat 8:00 AM–1:00 PM, Sun Closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday; closed Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/pennsylvania/philadelphia/781043/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Philadelphia",
+   "category": "truck",
+   "area": "Center City · N 13th St (Callowhill / Chinatown North)",
+   "address": "314-322 N 13th St, Philadelphia, PA 19107",
+   "phone": "(215) 627-4100",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19107/808042/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19107/808042/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “NO ON SITE PARKING - FIND VEHICLE PARKING BEFORE PICK UP, 13TH & WOOD ST”."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time. The page says there is no on-site customer parking.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Philadelphia truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19107/808042/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul Moving & Storage of South Philadelphia",
+   "category": "truck",
+   "area": "South Philadelphia · S 12th St at Washington Ave",
+   "address": "1015-25 S 12th St, Philadelphia, PA 19147",
+   "phone": "(215) 336-8080",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19147/808066/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19147/808066/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “@ Washington Av”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of South Philadelphia truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19147/808066/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Strawberry Mansion",
+   "category": "truck",
+   "area": "North Philadelphia · Ridge Ave (Strawberry Mansion)",
+   "address": "2800-30 Ridge Ave, Philadelphia, PA 19121",
+   "phone": "(215) 769-7430",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19121/808075/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19121/808075/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Strawberry Mansion truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19121/808075/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul Moving & Storage at Quartermaster Plaza",
+   "category": "truck",
+   "area": "South Philadelphia · Quartermaster Plaza (S 20th St off Oregon Ave)",
+   "address": "2990 S 20th St, Philadelphia, PA 19145",
+   "phone": "(215) 468-2014",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19145/808028/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19145/808028/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “Drive to 24th st and Oregon Ave and head past the Planet Fitness”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "U-Box containers",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box Containers, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage at Quartermaster Plaza truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19145/808028/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul Moving & Storage at Roosevelt Blvd",
+   "category": "truck",
+   "area": "Northeast Philadelphia · Roosevelt Blvd between Rhawn and Cottman",
+   "address": "7750 Roosevelt Blvd, Philadelphia, PA 19152",
+   "phone": "(215) 335-2525",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19152/812064/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19152/812064/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “Btwn Rhawn & Cottman”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage at Roosevelt Blvd truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19152/812064/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul of University City",
+   "category": "truck",
+   "area": "West Philadelphia · Chestnut St between 48th and 49th",
+   "address": "4857 Chestnut St, Philadelphia, PA 19139",
+   "phone": "(215) 471-4137",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19139/808061/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19139/808061/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “Btwn 48th & 49th”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul of University City truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19139/808061/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Kingsessing",
+   "category": "truck",
+   "area": "Southwest Philadelphia · Woodland Ave (Kingsessing)",
+   "address": "5744 Woodland Ave, Philadelphia, PA 19143",
+   "phone": "(215) 883-7200",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19143/808073/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19143/808073/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "U-Box containers",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box Containers, Moving Supplies, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Kingsessing truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19143/808073/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul Moving & Storage of North Philadelphia",
+   "category": "truck",
+   "area": "Kensington / Fishtown edge · E Lehigh Ave",
+   "address": "339-341 E Lehigh Ave, Philadelphia, PA 19125",
+   "phone": "(215) 235-8076",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19125/808072/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19125/808072/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “NO ON SITE PARKING - FIND VEHICLE PARKING BEFORE PICK UP”."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time. The page says there is no on-site customer parking.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of North Philadelphia truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19125/808072/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Fairhill",
+   "category": "truck",
+   "area": "North Philadelphia · W Allegheny Ave (Fairhill)",
+   "address": "747 W Allegheny Ave, Philadelphia, PA 19133",
+   "phone": "(215) 227-3900",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19133/808021/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19133/808021/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “@ Glenwood”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Self-storage",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Fairhill truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19133/808021/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "U-Haul of Juniata Park/Feltonville",
+   "category": "truck",
+   "area": "Juniata Park / Feltonville · W Hunting Park Ave",
+   "address": "101 W Hunting Park Ave, Philadelphia, PA 19140",
+   "phone": "(215) 324-3344",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19140/808054/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19140/808054/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon–Thu 7 am–7 pm, Fri 7 am–8 pm, Sat 7 am–7 pm, Sun 9 am–5 pm. The page’s location note reads “@ Front, No Customer Parking”. It also lists 24-hour customer return."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals",
+    "Moving supplies"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time. The page says there is no on-site customer parking.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul of Juniata Park/Feltonville truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Philadelphia-PA-19140/808054/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Bellhop — Philadelphia hourly moving labor",
+   "category": "labor",
+   "area": "Center City · South Broad St",
+   "address": "230 South Broad St., Philadelphia, PA 19102",
+   "phone": "(215) 309-9775",
+   "website": "https://www.getbellhops.com/pa/philadelphia/movers/",
+   "bookingUrl": "https://www.getbellhops.com/pa/philadelphia/movers/",
+   "hours": {
+    "monday": "8:00 AM–10:00 PM",
+    "tuesday": "8:00 AM–10:00 PM",
+    "wednesday": "8:00 AM–10:00 PM",
+    "thursday": "8:00 AM–10:00 PM",
+    "friday": "8:00 AM–10:00 PM",
+    "saturday": "8:00 AM–10:00 PM",
+    "sunday": "8:00 AM–10:00 PM",
+    "notes": "Hours from the visible footer of the official Philadelphia page: Mon–Sat 8:00 AM to 10:00 PM EST, Sun 8:00 AM to 10:00 PM EST. The page’s structured data lists shorter 8:00 AM–6:00 PM hours, so the two disagree; we copied the visible text. Confirm before you book."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Storage unit and truck loading"
+   ],
+   "offersNotes": "The official Philadelphia page offers “Hourly moving help and labor”: “If you don’t need transportation but could use some moving help, Bellhop’s skilled Philadelphia movers make quick work of loading, unloading, and/or rearranging.” The same page says Bellhop is a federally regulated property broker that connects customers with independent labor and/or transportation providers.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Bellhop describes itself as a broker, so the crew may be a partner mover. The page mentions last-minute movers; confirm crew availability for your date.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Bellhop Philadelphia movers page",
+     "url": "https://www.getbellhops.com/pa/philadelphia/movers/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "College HUNKS Hauling Junk & Moving — Philadelphia hourly labor",
+   "category": "labor",
+   "area": "Philadelphia area (office in West Chester, PA)",
+   "address": "308 Westtown Rd, West Chester, PA 19382",
+   "phone": "610-422-3500",
+   "website": "https://www.collegehunkshaulingjunk.com/philadelphia/labor/",
+   "bookingUrl": "https://www.collegehunkshaulingjunk.com/philadelphia/labor/",
+   "hours": {
+    "monday": "8:00 AM–9:00 PM",
+    "tuesday": "8:00 AM–9:00 PM",
+    "wednesday": "8:00 AM–9:00 PM",
+    "thursday": "8:00 AM–9:00 PM",
+    "friday": "8:00 AM–9:00 PM",
+    "saturday": "8:00 AM–9:00 PM",
+    "sunday": "9:00 AM–9:00 PM",
+    "notes": "Hours from the official Philadelphia labor page: Monday–Saturday 8:00 am–9:00 pm, Sunday 9:00 am–9:00 pm. The address on that page is in West Chester, PA, outside the city."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Packing and unpacking",
+    "Furniture moving"
+   ],
+   "offersNotes": "The official page says the Philadelphia team offers “labor-only moving services by the hour,” including loading and unloading a moving truck, storage unit, or portable storage container. It says next-day or same-day service is possible in many cases.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "The listed service-area towns are mostly Philadelphia’s western and Main Line suburbs; confirm that a crew covers your Philadelphia address.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "College HUNKS Philadelphia labor page",
+     "url": "https://www.collegehunkshaulingjunk.com/philadelphia/labor/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  }
+ ]
+}
