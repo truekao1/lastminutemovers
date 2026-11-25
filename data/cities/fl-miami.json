@@ -1,0 +1,665 @@
+{
+ "slug": "fl-miami",
+ "city": "Miami",
+ "citySlug": "miami",
+ "state": "FL",
+ "stateName": "Florida",
+ "focus": "Truck-rental desks with Miami addresses (six Penske locations, including two Home Depot stores, five company-run U-Haul stores from Downtown and Allapattah to Dadeland and the Doral area, and three U-Haul neighborhood dealers), plus two labor-only options",
+ "lastUpdated": "2026-11-24",
+ "intro": "This first Miami page covers truck-rental locations whose official Penske and U-Haul pages list a Miami address — six Penske desks (including two Home Depot stores in West Kendall and South Dade that are open until 7:30 PM every day), five company-run U-Haul stores that all publish Sunday hours, and three U-Haul neighborhood dealers. Two labor-only options are included for people who already have a truck or container: Bellhop, which lists a Ponce de Leon address, and College HUNKS, whose Miami labor page lists a Miami Gardens office. Budget, Enterprise Truck Rental, and most U-Haul dealers are not covered yet, and neither are Miami Beach, Hialeah, or Broward County. Several locations are in unincorporated Miami-Dade areas that use a Miami mailing address. We do not report live truck counts; one-way and cargo-van flags are on only when the location page itself mentions them.",
+ "listings": [
+  {
+   "name": "Penske Truck Rental at Senda Rent",
+   "category": "truck",
+   "area": "Allapattah · NW 36th St",
+   "address": "2270 NW 36th Street, Miami, FL 33142",
+   "phone": "305-891-5526",
+   "website": "https://www.pensketruckrental.com/locations/us/florida/miami/072620/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/florida/miami/072620/",
+   "hours": {
+    "monday": "7:00 AM–6:00 PM",
+    "tuesday": "7:00 AM–6:00 PM",
+    "wednesday": "7:00 AM–6:00 PM",
+    "thursday": "7:00 AM–6:00 PM",
+    "friday": "7:00 AM–6:00 PM",
+    "saturday": "8:30 AM–6:00 PM",
+    "sunday": "8:30 AM–4:00 PM",
+    "notes": "Hours from the official Penske location page (Mon–Fri 7:00 AM–6:00 PM, Sat 8:30 AM–6:00 PM, Sun 8:30 AM–4:00 PM). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open 7 days per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/florida/miami/072620/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #6339",
+   "category": "truck",
+   "area": "West Kendall · SW 88th St (Kendall Dr)",
+   "address": "15750 SW 88th St, Miami, FL 33196",
+   "phone": "305-554-7997",
+   "website": "https://www.pensketruckrental.com/locations/us/florida/miami/072633/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/florida/miami/072633/",
+   "hours": {
+    "monday": "8:30 AM–7:30 PM",
+    "tuesday": "8:30 AM–7:30 PM",
+    "wednesday": "8:30 AM–7:30 PM",
+    "thursday": "8:30 AM–7:30 PM",
+    "friday": "8:30 AM–7:30 PM",
+    "saturday": "8:30 AM–7:30 PM",
+    "sunday": "8:30 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page (Mon–Fri 8:30 AM–7:30 PM, Sat 8:30 AM–7:30 PM, Sun 8:30 AM–7:30 PM). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open 7 days per the location page. This desk is inside a Home Depot store. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/florida/miami/072633/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Penske Truck Rental at The Home Depot #6976",
+   "category": "truck",
+   "area": "South Dade · SW 152nd St (Coral Reef Dr)",
+   "address": "11905 SW 152nd St, Miami, FL 33177",
+   "phone": "305-253-2780",
+   "website": "https://www.pensketruckrental.com/locations/us/florida/miami/072637/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/florida/miami/072637/",
+   "hours": {
+    "monday": "8:30 AM–7:30 PM",
+    "tuesday": "8:30 AM–7:30 PM",
+    "wednesday": "8:30 AM–7:30 PM",
+    "thursday": "8:30 AM–7:30 PM",
+    "friday": "8:30 AM–7:30 PM",
+    "saturday": "8:30 AM–7:30 PM",
+    "sunday": "8:30 AM–7:30 PM",
+    "notes": "Hours from the official Penske location page (Mon–Fri 8:30 AM–7:30 PM, Sat 8:30 AM–7:30 PM, Sun 8:30 AM–7:30 PM). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open 7 days per the location page. This desk is inside a Home Depot store. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/florida/miami/072637/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Penske Truck Rental at Sunset Service Center",
+   "category": "truck",
+   "area": "Kendall · SW 72nd St (Sunset Dr)",
+   "address": "8803 SW 72nd Street, Miami, FL 33173",
+   "phone": "305-229-3016",
+   "website": "https://www.pensketruckrental.com/locations/us/florida/miami/072653/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/florida/miami/072653/",
+   "hours": {
+    "monday": "8:00 AM–5:00 PM",
+    "tuesday": "8:00 AM–5:00 PM",
+    "wednesday": "8:00 AM–5:00 PM",
+    "thursday": "8:00 AM–5:00 PM",
+    "friday": "8:00 AM–5:00 PM",
+    "saturday": "8:00 AM–2:00 PM",
+    "sunday": "Closed",
+    "notes": "Hours from the official Penske location page (Mon–Fri 8:00 AM–5:00 PM, Sat 8:00 AM–2:00 PM, Sun Closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday; closed Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/florida/miami/072653/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Penske Miami North",
+   "category": "truck",
+   "area": "North Miami-Dade · NW 7th Ave Ext",
+   "address": "17301 NW 7th Ave Ext, Miami, FL 33169",
+   "phone": "305-653-6211",
+   "website": "https://www.pensketruckrental.com/locations/us/florida/miami/075210/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/florida/miami/075210/",
+   "hours": {
+    "monday": "7:00 AM–5:00 PM",
+    "tuesday": "7:00 AM–5:00 PM",
+    "wednesday": "7:00 AM–5:00 PM",
+    "thursday": "7:00 AM–5:00 PM",
+    "friday": "7:00 AM–5:00 PM",
+    "saturday": "8:00 AM–12:00 PM",
+    "sunday": "Closed",
+    "notes": "Hours from the official Penske location page (Mon–Fri 7:00 AM–5:00 PM, Sat 8:00 AM–12:00 PM, Sun Closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday; closed Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/florida/miami/075210/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Penske Truck Rental at Bueres Auto Service",
+   "category": "truck",
+   "area": "Little River · N Miami Ave",
+   "address": "8201 N Miami Ave, Miami, FL 33150",
+   "phone": "305-386-9405",
+   "website": "https://www.pensketruckrental.com/locations/us/florida/miami/075246/",
+   "bookingUrl": "https://www.pensketruckrental.com/locations/us/florida/miami/075246/",
+   "hours": {
+    "monday": "8:00 AM–5:00 PM",
+    "tuesday": "8:00 AM–5:00 PM",
+    "wednesday": "8:00 AM–5:00 PM",
+    "thursday": "8:00 AM–5:00 PM",
+    "friday": "8:00 AM–5:00 PM",
+    "saturday": "9:00 AM–3:30 PM",
+    "sunday": "Closed",
+    "notes": "Hours from the official Penske location page (Mon–Fri 8:00 AM–5:00 PM, Sat 9:00 AM–3:30 PM, Sun Closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+   },
+   "offers": [
+    "Moving truck rental",
+    "One-way rentals"
+   ],
+   "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Open Saturday; closed Sunday per the location page. Do not treat the reservation page as live inventory.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official Penske location page",
+     "url": "https://www.pensketruckrental.com/locations/us/florida/miami/075246/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Greater Miami",
+   "category": "truck",
+   "area": "Downtown · NE 1st Ave",
+   "address": "1000 NE 1st Ave, Miami, FL 33132",
+   "phone": "(305) 358-9291",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33132/787057/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33132/787057/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am–7 pm Fri: 7 am–8 pm Sat: 7 am–7 pm Sun: 9 am–5 pm. Special hours are listed for 12/24/2026 (7:00 am - 3:00 pm). The page’s location note reads “Downtown”."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "Self-storage",
+    "Moving supplies",
+    "One-way rentals",
+    "In-town rentals"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Greater Miami truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33132/787057/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Dade County",
+   "category": "truck",
+   "area": "Little Haiti / Liberty City · NW 7th Ave at NW 54th St",
+   "address": "5341 NW 7th Ave, Miami, FL 33127",
+   "phone": "(305) 795-1170",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33127/787067/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33127/787067/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am–7 pm Fri: 7 am–8 pm Sat: 7 am–7 pm Sun: 9 am–5 pm. Special hours are listed for 12/24/2026 (7:00 am - 3:00 pm). The page’s location note reads “@ Nw 54th St, In front of the Burger King on NW 7th Avenue”."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "Self-storage",
+    "Moving supplies",
+    "One-way rentals",
+    "In-town rentals"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trailer Hitches, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Dade County truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33127/787067/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "U-Haul Moving & Storage at 36th St",
+   "category": "truck",
+   "area": "Allapattah · NW 36th St east of 27th Ave",
+   "address": "2460 NW 36th St, Miami, FL 33142",
+   "phone": "(305) 634-0673",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33142/787050/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33142/787050/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am–7 pm Fri: 7 am–8 pm Sat: 7 am–7 pm Sun: 9 am–5 pm. Special hours are listed for 12/24/2026 (7:00 am - 3:00 pm). The page’s location note reads “E Of 27th Av”."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "Self-storage",
+    "Moving supplies",
+    "One-way rentals",
+    "In-town rentals"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage at 36th St truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33142/787050/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Dolphin",
+   "category": "truck",
+   "area": "Doral area · NW 21st St (33172)",
+   "address": "10895 NW 21st St, Miami, FL 33172",
+   "phone": "(305) 406-1006",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33172/787072/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33172/787072/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am–7 pm Fri: 7 am–8 pm Sat: 7 am–7 pm Sun: 9 am–5 pm. Special hours are listed for 12/24/2026 (7:00 am - 3:00 pm)."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "Self-storage",
+    "Moving supplies",
+    "One-way rentals",
+    "In-town rentals"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Dolphin truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33172/787072/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "U-Haul Moving & Storage of Dadeland",
+   "category": "truck",
+   "area": "Dadeland / South Miami · S Dixie Hwy at Ludlam",
+   "address": "6701 S Dixie Hwy, Miami, FL 33143",
+   "phone": "(305) 661-2182",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33143/787078/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33143/787078/",
+   "hours": {
+    "monday": "7:00 AM–7:00 PM",
+    "tuesday": "7:00 AM–7:00 PM",
+    "wednesday": "7:00 AM–7:00 PM",
+    "thursday": "7:00 AM–7:00 PM",
+    "friday": "7:00 AM–8:00 PM",
+    "saturday": "7:00 AM–7:00 PM",
+    "sunday": "9:00 AM–5:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am–7 pm Fri: 7 am–8 pm Sat: 7 am–7 pm Sun: 9 am–5 pm. Special hours are listed for 12/24/2026 (7:00 am - 3:00 pm). The page’s location note reads “Ludlam & Us 1”."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "Self-storage",
+    "Moving supplies",
+    "One-way rentals",
+    "In-town rentals"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "U-Haul Moving & Storage of Dadeland truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33143/787078/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Sentry Self Storage (U-Haul neighborhood dealer)",
+   "category": "truck",
+   "area": "Buena Vista / Design District · NE 2nd Ave",
+   "address": "3300 NE 2nd Ave, Miami, FL 33137",
+   "phone": "(305) 571-9176",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33137/037160/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33137/037160/",
+   "hours": {
+    "monday": "9:00 AM–6:00 PM",
+    "tuesday": "9:00 AM–6:00 PM",
+    "wednesday": "9:00 AM–6:00 PM",
+    "thursday": "9:00 AM–6:00 PM",
+    "friday": "9:00 AM–6:00 PM",
+    "saturday": "9:00 AM–6:00 PM",
+    "sunday": "9:00 AM–2:00 PM",
+    "notes": "Office hours from the official U-Haul location page: Mon-Sat: 9 am–6 pm Sun: 9 am–2 pm. The page lists Thanksgiving Day (11/26/2026) as closed."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "One-way rentals",
+    "In-town rentals"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Sentry Self Storage truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33137/037160/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Central Mini Storage (U-Haul neighborhood dealer)",
+   "category": "truck",
+   "area": "Flagami / Grapeland Heights · NW 7th St",
+   "address": "3645 NW 7th St, Miami, FL 33125",
+   "phone": "(305) 643-5885",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33125/049387/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33125/049387/",
+   "hours": {
+    "monday": "9:00 AM–4:00 PM",
+    "tuesday": "9:00 AM–4:00 PM",
+    "wednesday": "9:00 AM–4:00 PM",
+    "thursday": "9:00 AM–4:00 PM",
+    "friday": "9:00 AM–4:00 PM",
+    "saturday": "9:00 AM–12:00 PM",
+    "sunday": "Closed",
+    "notes": "Office hours from the official U-Haul location page: Mon-Fri: 9 am–4 pm Sat: 9 am–12 pm Sun: Closed. The page lists Thanksgiving Day (11/26/2026) as closed."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "Self-storage",
+    "One-way rentals",
+    "In-town rentals"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Central Mini Storage truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33125/049387/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Value Store It (U-Haul neighborhood dealer)",
+   "category": "truck",
+   "area": "Little Havana · SW 8th St (Calle Ocho)",
+   "address": "3141 SW 8th St, Miami, FL 33135",
+   "phone": "(786) 369-1760",
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33135/026645/",
+   "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33135/026645/",
+   "hours": {
+    "monday": "9:00 AM–6:00 PM",
+    "tuesday": "9:00 AM–6:00 PM",
+    "wednesday": "9:00 AM–6:00 PM",
+    "thursday": "9:00 AM–6:00 PM",
+    "friday": "9:00 AM–6:00 PM",
+    "saturday": "9:00 AM–6:00 PM",
+    "sunday": "Closed",
+    "notes": "Office hours from the official U-Haul location page: Mon-Sat: 9 am–6 pm Sun: Closed. The page lists Thanksgiving Day (11/26/2026) as closed. Special hours are listed for 12/24/2026 (9:00 am - 1:00 pm)."
+   },
+   "offers": [
+    "Moving trucks",
+    "Trailers and towing",
+    "Moving supplies",
+    "One-way rentals",
+    "In-town rentals"
+   ],
+   "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+   "flags": {
+    "oneWay": true,
+    "laborOnly": false,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Value Store It truck rental page",
+     "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Miami-FL-33135/026645/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Bellhop — Miami hourly moving labor",
+   "category": "labor",
+   "area": "Coral Gables area · Ponce de Leon Blvd (serves Miami)",
+   "address": "725 Ponce de Leon Suite #600, Miami, FL 33134",
+   "phone": "(786) 788-8020",
+   "website": "https://www.getbellhops.com/fl/miami/movers/",
+   "bookingUrl": "https://www.getbellhops.com/fl/miami/movers/",
+   "hours": {
+    "monday": "8:00 AM–10:00 PM",
+    "tuesday": "8:00 AM–10:00 PM",
+    "wednesday": "8:00 AM–10:00 PM",
+    "thursday": "8:00 AM–10:00 PM",
+    "friday": "8:00 AM–10:00 PM",
+    "saturday": "8:00 AM–10:00 PM",
+    "sunday": "8:00 AM–10:00 PM",
+    "notes": "Hours from the footer of the official Miami page: Mon–Sat 8:00 AM to 10:00 PM EST, Sun 8:00 AM to 10:00 PM EST."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Storage unit and truck loading"
+   ],
+   "offersNotes": "The official Miami page offers “Hourly moving help and labor”: “If you don’t need transportation but could use some moving help, Bellhop’s skilled Miami movers make quick work of loading, unloading, and/or rearranging.” The same page says Bellhop is a federally regulated property broker that connects customers with independent labor and/or transportation providers.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "Bellhop describes itself as a broker, so the crew may be a partner mover. Book online or by phone and confirm crew availability for your date.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Bellhop Miami movers page",
+     "url": "https://www.getbellhops.com/fl/miami/movers/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "College HUNKS Hauling Junk & Moving — Miami hourly labor",
+   "category": "labor",
+   "area": "Miami area (office in Miami Gardens, FL)",
+   "address": "15301 NW 34th, Miami Gardens, FL 33054",
+   "phone": "305-831-4543",
+   "website": "https://www.collegehunkshaulingjunk.com/miami/labor/",
+   "bookingUrl": "https://www.collegehunkshaulingjunk.com/miami/labor/",
+   "hours": {
+    "monday": "8:00 AM–9:00 PM",
+    "tuesday": "8:00 AM–9:00 PM",
+    "wednesday": "8:00 AM–9:00 PM",
+    "thursday": "8:00 AM–9:00 PM",
+    "friday": "8:00 AM–9:00 PM",
+    "saturday": "8:00 AM–9:00 PM",
+    "sunday": "9:00 AM–9:00 PM",
+    "notes": "Hours from the official Miami labor page: Monday–Saturday 8:00 am–9:00 pm, Sunday 9:00 am–9:00 pm. The address on that page is in Miami Gardens, north of the city; the street line is printed as “15301 NW 34th”."
+   },
+   "offers": [
+    "Labor-only loading and unloading",
+    "Packing and unpacking",
+    "Furniture moving"
+   ],
+   "offersNotes": "The official page says the Miami team offers “labor-only moving services by the hour,” including loading and unloading a moving truck, storage unit, or portable storage container. It says next-day or same-day service is possible in many cases.",
+   "flags": {
+    "oneWay": false,
+    "laborOnly": true,
+    "weekendHours": true,
+    "cargoVan": false
+   },
+   "visitNotes": "The page lists Miami, Miami Beach, Hialeah, Key Biscayne, North Miami Beach, and Broward cities among its service area; confirm that a crew covers your address.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "College HUNKS Miami labor page",
+     "url": "https://www.collegehunkshaulingjunk.com/miami/labor/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  }
+ ]
+}
