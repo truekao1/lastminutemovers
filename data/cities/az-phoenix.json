@@ -1,0 +1,852 @@
+{
+  "slug": "az-phoenix",
+  "city": "Phoenix",
+  "citySlug": "phoenix",
+  "state": "AZ",
+  "stateName": "Arizona",
+  "focus": "Truck-rental desks with Phoenix addresses (eight company-run U-Haul stores from Downtown, Arcadia, Biltmore, and Papago Park to West Phoenix and South Mountain, three U-Haul neighborhood dealers, and six Penske locations, including three Home Depot stores), plus three labor-only options",
+  "lastUpdated": "2026-11-25",
+  "intro": "This first Phoenix page covers truck-rental locations whose official U-Haul and Penske pages list a Phoenix address — eight company-run U-Haul stores that all publish Sunday hours and stay open until 7:00 PM most weekdays (8:00 PM Fridays), three U-Haul neighborhood dealers (one, WY Market on W Buckeye Rd, lists 8:00 AM–11:00 PM every day), and six Penske desks, including three Home Depot stores open until 7:30 PM every day. Three labor-only options are included for people who already have a truck or container: Bellhop, Cactus Valley Moving Labor & Help, and Budget Movers, two of which publish hourly rates. Budget Truck Rental, Enterprise Truck Rental, most U-Haul dealers, and nearby cities such as Tempe, Mesa, Scottsdale, Glendale, and Chandler are not covered yet. All eight company-run U-Haul stores list shortened Thanksgiving Day hours (7:00 AM–3:00 PM on November 26). We do not report live truck counts; one-way and cargo-van flags are on only when the location page itself mentions them.",
+  "listings": [
+    {
+      "name": "U-Haul Moving & Storage of Downtown Phoenix",
+      "category": "truck",
+      "area": "Downtown · S 2nd St",
+      "address": "410 S 2nd St, Phoenix, AZ 85004",
+      "phone": "(602) 495-9856",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85004/721064/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85004/721064/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm; Fri: 7 am - 8 pm; Sat: 7 am - 7 pm; Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “Across From Arena, 50 feet from the South doors of the Arena - just south of train tracks”."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage of Downtown Phoenix truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85004/721064/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "U-Haul Moving & Storage at Phoenix Airport",
+      "category": "truck",
+      "area": "East McDowell Rd · near 24th St (airport area)",
+      "address": "2345 E McDowell Rd, Phoenix, AZ 85006",
+      "phone": "(602) 273-4631",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85006/822042/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85006/822042/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm; Fri: 7 am - 8 pm; Sat: 7 am - 7 pm; Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “24th and McDowell, block north of the 202 on 24th street”."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "Trailer hitches",
+        "Propane",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage at Phoenix Airport truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85006/822042/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "U-Haul Moving & Storage at Papago Park",
+      "category": "truck",
+      "area": "Papago Park area · E McDowell Rd",
+      "address": "4950 E McDowell Rd, Phoenix, AZ 85008",
+      "phone": "(602) 267-8355",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85008/822088/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85008/822088/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm; Fri: 7 am - 8 pm; Sat: 7 am - 7 pm; Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage at Papago Park truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85008/822088/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "U-Haul of Arcadia",
+      "category": "truck",
+      "area": "Arcadia · E Camelback Rd at 40th St",
+      "address": "4007 E Camelback Rd, Phoenix, AZ 85018",
+      "phone": "(602) 840-5378",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85018/822026/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85018/822026/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm; Fri: 7 am - 8 pm; Sat: 7 am - 7 pm; Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “40th St SE Corner & Camelback, just west of the canal”."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "Trailer hitches",
+        "Propane",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul of Arcadia truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85018/822026/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "U-Haul Moving & Storage of Biltmore",
+      "category": "truck",
+      "area": "Biltmore area · E Indian School Rd",
+      "address": "2626 E Indian School Rd, Phoenix, AZ 85016",
+      "phone": "(602) 977-0902",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85016/822035/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85016/822035/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm; Fri: 7 am - 8 pm; Sat: 7 am - 7 pm; Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "Trailer hitches",
+        "Propane",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage of Biltmore truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85016/822035/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "U-Haul Moving & Storage at I-17 and McDowell",
+      "category": "truck",
+      "area": "West Phoenix · W McDowell Rd near I-17",
+      "address": "2235 W McDowell Rd, Phoenix, AZ 85009",
+      "phone": "(623) 209-7353",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85009/721073/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85009/721073/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm; Fri: 7 am - 8 pm; Sat: 7 am - 7 pm; Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "Trailer hitches",
+        "Propane",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage at I-17 and McDowell truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85009/721073/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "U-Haul Moving & Storage at West Camelback Road",
+      "category": "truck",
+      "area": "West Phoenix · W Camelback Rd",
+      "address": "4240 W Camelback Rd, Phoenix, AZ 85019",
+      "phone": "(602) 714-7386",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85019/721071/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85019/721071/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm; Fri: 7 am - 8 pm; Sat: 7 am - 7 pm; Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "Trailer hitches",
+        "Propane",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage at West Camelback Road truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85019/721071/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "U-Haul Moving & Storage of South Mountain",
+      "category": "truck",
+      "area": "South Mountain area · E Baseline Rd",
+      "address": "340 E Baseline Rd Ste 30, Phoenix, AZ 85042",
+      "phone": "(623) 209-7357",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85042/936089/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85042/936089/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm; Fri: 7 am - 8 pm; Sat: 7 am - 7 pm; Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "Trailer hitches",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Trailer Hitches, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage of South Mountain truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85042/936089/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "WY Market (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "West Buckeye Rd",
+      "address": "1819 W Buckeye Rd, Phoenix, AZ 85007",
+      "phone": "(623) 748-0445",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85007/011210/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85007/011210/",
+      "hours": {
+        "monday": "8:00 AM–11:00 PM",
+        "tuesday": "8:00 AM–11:00 PM",
+        "wednesday": "8:00 AM–11:00 PM",
+        "thursday": "8:00 AM–11:00 PM",
+        "friday": "8:00 AM–11:00 PM",
+        "saturday": "8:00 AM–11:00 PM",
+        "sunday": "8:00 AM–11:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Sun: 8 am - 11 pm."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "WY Market (U-Haul neighborhood dealer) truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85007/011210/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Arco Rohans Supermarket (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "N 16th St",
+      "address": "2902 N 16th St, Phoenix, AZ 85016",
+      "phone": "(602) 870-2973",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85016/036764/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85016/036764/",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "9:00 AM–7:00 PM",
+        "sunday": "9:00 AM–7:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Sun: 9 am - 7 pm."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Arco Rohans Supermarket (U-Haul neighborhood dealer) truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85016/036764/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Simons Auto Spa (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "N 7th St",
+      "address": "3602 N 7th St, Phoenix, AZ 85014",
+      "phone": "(480) 787-5056",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85014/008450/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85014/008450/",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–6:00 PM",
+        "sunday": "9:00 AM–6:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Fri: 8 am - 7 pm; Sat-Sun: 9 am - 6 pm."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Simons Auto Spa (U-Haul neighborhood dealer) truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Phoenix-AZ-85014/008450/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Penske at Home Depot #0468",
+      "category": "truck",
+      "area": "North Phoenix · W Thunderbird Rd",
+      "address": "2650 W Thunderbird Rd, Phoenix, AZ 85023",
+      "phone": "602-896-2836",
+      "website": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/058727/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/058727/",
+      "hours": {
+        "monday": "5:00 AM–7:30 PM",
+        "tuesday": "5:00 AM–7:30 PM",
+        "wednesday": "5:00 AM–7:30 PM",
+        "thursday": "5:00 AM–7:30 PM",
+        "friday": "5:00 AM–7:30 PM",
+        "saturday": "5:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page (Mon–Fri 5:00 AM–7:30 PM, Sat 5:00 AM–7:30 PM, Sun 7:00 AM–7:30 PM). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open 7 days per the location page. This desk is inside a Home Depot store. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/058727/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Penske at Home Depot #0413",
+      "category": "truck",
+      "area": "West Phoenix · W Camelback Rd",
+      "address": "9969 W Camelback Rd, Phoenix, AZ 85037",
+      "phone": "623-936-7916",
+      "website": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/653621/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/653621/",
+      "hours": {
+        "monday": "6:00 AM–7:30 PM",
+        "tuesday": "6:00 AM–7:30 PM",
+        "wednesday": "6:00 AM–7:30 PM",
+        "thursday": "6:00 AM–7:30 PM",
+        "friday": "6:00 AM–7:30 PM",
+        "saturday": "6:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page (Mon–Fri 6:00 AM–7:30 PM, Sat 6:00 AM–7:30 PM, Sun 7:00 AM–7:30 PM). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open 7 days per the location page. This desk is inside a Home Depot store. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/653621/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Penske at Home Depot #6948",
+      "category": "truck",
+      "area": "North Phoenix · N Valley Pkwy",
+      "address": "35050 N Valley Pkwy, Phoenix, AZ 85086",
+      "phone": "602-993-1144",
+      "website": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/058734/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/058734/",
+      "hours": {
+        "monday": "7:00 AM–7:30 PM",
+        "tuesday": "7:00 AM–7:30 PM",
+        "wednesday": "7:00 AM–7:30 PM",
+        "thursday": "7:00 AM–7:30 PM",
+        "friday": "7:00 AM–7:30 PM",
+        "saturday": "7:00 AM–7:30 PM",
+        "sunday": "7:00 AM–7:30 PM",
+        "notes": "Hours from the official Penske location page (Mon–Fri 7:00 AM–7:30 PM, Sat 7:00 AM–7:30 PM, Sun 7:00 AM–7:30 PM). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open 7 days per the location page. This desk is inside a Home Depot store. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/058734/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Penske Truck Rental — W Hilton Ave",
+      "category": "truck",
+      "area": "West of Downtown · W Hilton Ave",
+      "address": "1945 W Hilton Ave, Phoenix, AZ 85009",
+      "phone": "602-255-6200",
+      "website": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/058710/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/058710/",
+      "hours": {
+        "monday": "6:30 AM–4:00 PM",
+        "tuesday": "6:30 AM–4:00 PM",
+        "wednesday": "6:30 AM–4:00 PM",
+        "thursday": "6:30 AM–4:00 PM",
+        "friday": "6:30 AM–4:00 PM",
+        "saturday": "7:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske location page (Mon–Fri 6:30 AM–4:00 PM, Sat 7:00 AM–2:00 PM, Sun closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open Monday–Saturday per the location page. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/058710/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Penske Truck Rental — N 75th Ave",
+      "category": "truck",
+      "area": "West Phoenix · N 75th Ave",
+      "address": "1041 N 75th Ave, Phoenix, AZ 85043",
+      "phone": "623-936-9713",
+      "website": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/653610/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/653610/",
+      "hours": {
+        "monday": "6:30 AM–4:00 PM",
+        "tuesday": "6:30 AM–4:00 PM",
+        "wednesday": "6:30 AM–4:00 PM",
+        "thursday": "6:30 AM–4:00 PM",
+        "friday": "6:30 AM–4:00 PM",
+        "saturday": "7:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske location page (Mon–Fri 6:30 AM–4:00 PM, Sat 7:00 AM–2:00 PM, Sun closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Open Monday–Saturday per the location page. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/653610/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Penske Truck Rental — N 43rd Ave",
+      "category": "truck",
+      "area": "West Phoenix · N 43rd Ave",
+      "address": "1100 N 43rd Ave, Phoenix, AZ 85043",
+      "phone": "602-282-8918",
+      "website": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/614310/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/614310/",
+      "hours": {
+        "monday": "6:30 AM–4:00 PM",
+        "tuesday": "6:30 AM–4:00 PM",
+        "wednesday": "6:30 AM–4:00 PM",
+        "thursday": "6:30 AM–4:00 PM",
+        "friday": "6:30 AM–4:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske location page (Mon–Fri 6:30 AM–4:00 PM, Sat and Sun closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans appear only in the site-wide menu, not as this location’s inventory, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "Closed weekends per the location page. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/arizona/phoenix/614310/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Bellhop — Phoenix hourly moving labor",
+      "category": "labor",
+      "area": "Downtown-area office · N 7th Ave (serves Phoenix)",
+      "address": "1415 N 7th Ave, Phoenix, AZ 85007",
+      "phone": "(480) 470-7839",
+      "website": "https://www.getbellhops.com/az/phoenix/movers/",
+      "bookingUrl": "https://www.getbellhops.com/az/phoenix/movers/",
+      "hours": {
+        "monday": "8:00 AM–10:00 PM EST",
+        "tuesday": "8:00 AM–10:00 PM EST",
+        "wednesday": "8:00 AM–10:00 PM EST",
+        "thursday": "8:00 AM–10:00 PM EST",
+        "friday": "8:00 AM–10:00 PM EST",
+        "saturday": "8:00 AM–10:00 PM EST",
+        "sunday": "8:00 AM–10:00 PM EST",
+        "notes": "Hours from the footer of the official Phoenix page: Mon–Sat 8:00 AM to 10:00 PM EST, Sun 8:00 AM to 10:00 PM EST. The page gives these times in Eastern time, not Arizona time (6:00 AM–8:00 PM in Phoenix while Arizona is on MST)."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Storage unit and truck loading"
+      ],
+      "offersNotes": "The official Phoenix page offers “Hourly moving help and labor”: “If you don’t need transportation but could use some moving help, Bellhop’s skilled Phoenix movers make quick work of loading, unloading, and/or rearranging.” It says it can book with as little as one day’s notice and to call about same-day or next-day moves. The same page says Bellhop is a federally regulated property broker that connects customers with independent labor and/or transportation providers.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Bellhop describes itself as a broker, so the crew may be a partner mover. Book online or by phone and confirm crew availability for your date.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Bellhop Phoenix movers page",
+          "url": "https://www.getbellhops.com/az/phoenix/movers/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Cactus Valley Moving Labor & Help",
+      "category": "labor",
+      "area": "Central Phoenix · N 12th St",
+      "address": "4130 N 12th St, Phoenix, AZ 85014",
+      "phone": "480-504-6806",
+      "website": "https://cactusvalleymoving.com/",
+      "bookingUrl": "https://cactusvalleymoving.com/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official site does not publish office or crew hours. Call to check availability."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Portable container loading",
+        "Packing",
+        "In-home furniture moving"
+      ],
+      "offersNotes": "The official site says the company specializes in moving labor: the customer provides the rental truck (U-Haul, Penske, etc.) or storage container and the crew loads or unloads it, including PODS, U-Box, ABF trailers, and Pack-Rat containers. It says the crew generally does not drive the customer’s rental truck.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "The site lists a second customer-service line, (520) 386-3147. Confirm crew availability for your date and time.",
+      "feeNotes": "Rates as listed on 2026-11-25 on the official site: $45 per hour per person — 2-person crew $90/hour, 3-person $135/hour, 4-person $180/hour, 5-person $225/hour — with a 2-hour minimum on all jobs. The site says same-day moves carry a 10% to 15% premium depending on availability and that final pricing depends on the day and crew availability.",
+      "sources": [
+        {
+          "label": "Cactus Valley Moving official site",
+          "url": "https://cactusvalleymoving.com/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Budget Movers — loading and unloading",
+      "category": "labor",
+      "area": "Camelback East · E Highland Ave",
+      "address": "1702 E Highland Ave #213, Phoenix, AZ 85016",
+      "phone": "(602) 242-4391",
+      "website": "https://budgetmoversaz.com/",
+      "bookingUrl": "https://budgetmoversaz.com/loading-unloading-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official loading-and-unloading page: Mon–Fri 8 am–6 pm, Sat 9 am–2 pm, Sun closed. The page also lists a second office at 5455 N 51st Ave, Suite 35, Glendale, AZ 85301."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Moving trucks with crew"
+      ],
+      "offersNotes": "The official page says the crew will load or unload rental trucks, storage containers, and more, and that customers can either use a rental truck they arranged or the company’s own 24-foot and 26-foot trucks.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Quotes are tailored to the number of items, crew size, distance, and access. Confirm crew availability for your date.",
+      "feeNotes": "Loading and unloading as listed on 2026-11-25 on the official page: “Starting from $115 per hour.” Final quotes depend on items, crew size, and access.",
+      "sources": [
+        {
+          "label": "Budget Movers loading and unloading page",
+          "url": "https://budgetmoversaz.com/loading-unloading-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    }
+  ]
+}
