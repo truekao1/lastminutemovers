@@ -1,0 +1,637 @@
+{
+  "slug": "ma-boston",
+  "city": "Boston",
+  "citySlug": "boston",
+  "state": "MA",
+  "stateName": "Massachusetts",
+  "focus": "Truck-rental desks in Boston neighborhoods (South End, Dorchester, Roxbury, East Boston, Jamaica Plain, West Roxbury) and just over the line in Brookline, Cambridge, and Somerville — four company-run U-Haul stores, six U-Haul neighborhood dealers, and one Penske location — plus four labor-only options",
+  "lastUpdated": "2026-11-26",
+  "intro": "This first Boston page covers truck-rental locations whose official U-Haul and Penske pages list addresses in Boston neighborhoods or just over the city line: four company-run U-Haul stores (Mass Ave in the South End, Route 9 in Brookline, Central Square in Cambridge, and Somerville) that all publish Sunday hours and stay open until 7:00 PM most weekdays (8:00 PM Fridays), six U-Haul neighborhood dealers in Dorchester, Roxbury, East Boston, and Jamaica Plain (Dorchester Food Co Op on Bowdoin St lists 9:00 AM–7:00 PM every day), and the one Penske desk listed under Boston, in West Roxbury, which is closed weekends. Four labor-only options are included for people who already have a truck or container: Bellhop, Horizon Boston Movers, Mozart Movers, and Continental Moving; none publishes a dollar rate on the pages we checked. Budget Truck Rental, Enterprise Truck Rental, Home Depot rental desks, and other U-Haul dealers are not covered yet. The company-run U-Haul stores list shortened Thanksgiving Day hours (7:00 AM–3:00 PM on November 26), and every dealer listed here shows Thanksgiving as closed. We do not report live truck counts; one-way and cargo-van flags are on only when the location page itself mentions them.",
+  "listings": [
+    {
+      "name": "U-Haul Moving & Storage at Mass Ave Boston",
+      "category": "truck",
+      "area": "South End · Massachusetts Ave near South Bay",
+      "address": "985 Massachusetts Ave, Boston, MA 02118",
+      "phone": "(617) 442-5600",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Boston-MA-02118/837054/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Boston-MA-02118/837054/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm Fri: 7 am - 8 pm Sat: 7 am - 7 pm Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “North of South Bay Shopping Center-Limited On Street Parking Only, On Street Parking Only”."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "Propane",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Propane as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage at Mass Ave Boston truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Boston-MA-02118/837054/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "U-Haul of Rt 9 Brookline",
+      "category": "truck",
+      "area": "Brookline · Route 9 (Boylston St)",
+      "address": "270 Boylston St, Brookline, MA 02445",
+      "phone": "(617) 731-9440",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Brookline-MA-02445/837067/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Brookline-MA-02445/837067/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm Fri: 7 am - 8 pm Sat: 7 am - 7 pm Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “Rt 9 East next door to Audi of Brookline, On-Street Parking Only”."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "Trailer hitches",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies, Trailer Hitches as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul of Rt 9 Brookline truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Brookline-MA-02445/837067/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "U-Haul Moving & Storage at Central Square",
+      "category": "truck",
+      "area": "Cambridge · Central Square (Main St)",
+      "address": "844 Main St, Cambridge, MA 02139",
+      "phone": "(617) 354-0500",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Cambridge-MA-02139/837051/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Cambridge-MA-02139/837051/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm Fri: 7 am - 8 pm Sat: 7 am - 7 pm Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “No After Hour Drop Offs”."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "Moving supplies",
+        "Trailer hitches",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trailer Hitches as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage at Central Square truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Cambridge-MA-02139/837051/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "U-Haul Moving & Storage of Somerville",
+      "category": "truck",
+      "area": "Somerville · Linwood St",
+      "address": "151 Linwood St, Somerville, MA 02143",
+      "phone": "(617) 625-2789",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Somerville-MA-02143/837069/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Somerville-MA-02143/837069/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm Fri: 7 am - 8 pm Sat: 7 am - 7 pm Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: 7:00 am - 3:00 pm; 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “Next to Herb Chambers Mercedes, On Street Parking Only”."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "Propane",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Propane as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage of Somerville truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Somerville-MA-02143/837069/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Dorchester Food Co Op (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Dorchester · Bowdoin St",
+      "address": "195 Bowdoin St, Dorchester, MA 02122",
+      "phone": "(617) 379-0020",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Dorchester-MA-02122/004441/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Dorchester-MA-02122/004441/",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "9:00 AM–7:00 PM",
+        "sunday": "9:00 AM–7:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Sun: 9 am - 7 pm. Special hours listed on the page: 11/26/2026: Closed."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Dorchester Food Co Op (U-Haul neighborhood dealer) truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Dorchester-MA-02122/004441/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Global Montello Group (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "East Boston · Meridian St",
+      "address": "470 Meridian St, Boston, MA 02128",
+      "phone": "(617) 561-0473",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Boston-MA-02128/022618/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Boston-MA-02128/022618/",
+      "hours": {
+        "monday": "7:00 AM–5:00 PM",
+        "tuesday": "7:00 AM–5:00 PM",
+        "wednesday": "7:00 AM–5:00 PM",
+        "thursday": "7:00 AM–5:00 PM",
+        "friday": "7:00 AM–5:00 PM",
+        "saturday": "7:00 AM–5:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Sat: 7 am - 5 pm Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: Closed."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Global Montello Group (U-Haul neighborhood dealer) truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Boston-MA-02128/022618/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "GMA Trucking (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Roxbury · Columbus Ave",
+      "address": "1985 Columbus Ave, Roxbury, MA 02119",
+      "phone": "(617) 606-3320",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Roxbury-MA-02119/028353/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Roxbury-MA-02119/028353/",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "8:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 8 am - 6:30 pm Fri-Sat: 8 am - 7 pm Sun: 9 am - 5 pm. Special hours listed on the page: 11/26/2026: Closed; 11/27/2026: Closed."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "GMA Trucking (U-Haul neighborhood dealer) truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Roxbury-MA-02119/028353/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Fwresh Salon And Barbershop (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Dorchester · Bowdoin St",
+      "address": "252 Bowdoin St, Boston, MA 02122",
+      "phone": "(617) 849-7021",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Boston-MA-02122/037627/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Boston-MA-02122/037627/",
+      "hours": {
+        "monday": "9:00 AM–5:00 PM",
+        "tuesday": "9:00 AM–5:00 PM",
+        "wednesday": "9:00 AM–5:00 PM",
+        "thursday": "9:00 AM–5:00 PM",
+        "friday": "9:00 AM–5:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "9:00 AM–4:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Sat: 9 am - 5 pm Sun: 9 am - 4 pm. Special hours listed on the page: 11/26/2026: Closed; 11/27/2026: Closed."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Fwresh Salon And Barbershop (U-Haul neighborhood dealer) truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Boston-MA-02122/037627/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The Mobile Guys (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Dorchester · Humboldt Ave",
+      "address": "209 Humboldt Ave, Dorchester, MA 02121",
+      "phone": "(617) 606-3017",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Dorchester-MA-02121/004162/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Dorchester-MA-02121/004162/",
+      "hours": {
+        "monday": "9:00 AM–6:00 PM",
+        "tuesday": "9:00 AM–6:00 PM",
+        "wednesday": "9:00 AM–6:00 PM",
+        "thursday": "9:00 AM–6:00 PM",
+        "friday": "9:00 AM–6:00 PM",
+        "saturday": "9:00 AM–6:00 PM",
+        "sunday": "Closed",
+        "notes": "Office hours from the official U-Haul location page: Mon-Sat: 9 am - 6 pm Sun: Closed. Special hours listed on the page: 11/26/2026: Closed; 11/27/2026: Closed; 11/28/2026: Closed."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "The Mobile Guys (U-Haul neighborhood dealer) truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Dorchester-MA-02121/004162/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "La Barberia (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Jamaica Plain · Washington St",
+      "address": "3154 Washington St, Jamaica Plain, MA 02130",
+      "phone": "(617) 390-7451",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Jamaica-Plain-MA-02130/009050/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Jamaica-Plain-MA-02130/009050/",
+      "hours": {
+        "monday": "10:00 AM–6:00 PM",
+        "tuesday": "10:00 AM–6:00 PM",
+        "wednesday": "10:00 AM–6:00 PM",
+        "thursday": "10:00 AM–6:00 PM",
+        "friday": "10:00 AM–6:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "Closed",
+        "notes": "Office hours from the official U-Haul location page: Mon-Sat: 10 am - 6 pm Sun: Closed. Special hours listed on the page: 11/26/2026: Closed."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "This is an independent business that rents U-Haul equipment, so hours and pickup can be stricter than at a company-run store. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "La Barberia (U-Haul neighborhood dealer) truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Jamaica-Plain-MA-02130/009050/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Penske at B & M Auto",
+      "category": "truck",
+      "area": "West Roxbury · Centre St",
+      "address": "1942 Centre St, Boston, MA 02132",
+      "phone": "617-323-3495",
+      "website": "https://www.pensketruckrental.com/locations/us/massachusetts/boston/055948/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/massachusetts/boston/055948/",
+      "hours": {
+        "monday": "9:00 AM–5:00 PM",
+        "tuesday": "9:00 AM–5:00 PM",
+        "wednesday": "9:00 AM–5:00 PM",
+        "thursday": "9:00 AM–5:00 PM",
+        "friday": "9:00 AM–5:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske location page (Mon–Fri 9:00 AM–5:00 PM, Sat and Sun closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans are not listed as this location’s inventory, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "Closed weekends per the location page. This is the only Penske location listed under Boston on Penske’s Massachusetts locator. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/massachusetts/boston/055948/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Bellhop — Boston hourly moving labor",
+      "category": "labor",
+      "area": "Boston office · King St (serves Boston)",
+      "address": "92 King St, Boston, MA 02112",
+      "phone": "(617) 370-5080",
+      "website": "https://www.getbellhops.com/ma/boston/movers/",
+      "bookingUrl": "https://www.getbellhops.com/ma/boston/movers/",
+      "hours": {
+        "monday": "8:00 AM–10:00 PM EST",
+        "tuesday": "8:00 AM–10:00 PM EST",
+        "wednesday": "8:00 AM–10:00 PM EST",
+        "thursday": "8:00 AM–10:00 PM EST",
+        "friday": "8:00 AM–10:00 PM EST",
+        "saturday": "8:00 AM–10:00 PM EST",
+        "sunday": "8:00 AM–10:00 PM EST",
+        "notes": "Hours from the footer of the official Boston page: Mon–Sat 8:00 AM to 10:00 PM EST, Sun 8:00 AM to 10:00 PM EST."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Storage unit and truck loading"
+      ],
+      "offersNotes": "The official Boston page offers “Hourly moving help and labor”: “If you don’t need transportation but could use some moving help, Bellhop’s skilled Boston movers make quick work of loading, unloading, and/or rearranging.” The same page says Bellhop is a federally regulated property broker that connects customers with independent labor and/or transportation providers, and mentions last-minute movers when plans change.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Bellhop describes itself as a broker, so the crew may be a partner mover. Book online or by phone and confirm crew availability for your date.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Bellhop Boston movers page",
+          "url": "https://www.getbellhops.com/ma/boston/movers/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Horizon Boston Movers — labor only",
+      "category": "labor",
+      "area": "Allston · Braintree St",
+      "address": "3 Braintree St, Boston, MA 02134",
+      "phone": "617-991-7677",
+      "website": "https://moversboston.org/",
+      "bookingUrl": "https://moversboston.org/labor-only-movers-boston/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The labor-only page does not publish office hours. It says crews can be booked for two hours or a full day, can start at 7am before work hours, and can work weekend-only jobs; call to confirm availability."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Container loading",
+        "Packing"
+      ],
+      "offersNotes": "The official labor-only page says: “you handle the truck, we handle the work,” and that the crew loads and unloads U-Haul, Penske, Budget, PODS, ABF trailers, or a borrowed pickup, by the hour with no truck required.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "Call or use the form with your move date, location, and estimated hours; the page says they confirm availability and give a quote.",
+      "feeNotes": "No labor rates published on the labor-only page we checked.",
+      "sources": [
+        {
+          "label": "Horizon Boston Movers labor-only page",
+          "url": "https://moversboston.org/labor-only-movers-boston/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Mozart Movers — loading and unloading",
+      "category": "labor",
+      "area": "Allston · Harvard Ave",
+      "address": "239 Harvard Ave, Boston, MA 02134",
+      "phone": "(617) 390-4600",
+      "website": "https://mozartmoving.com/",
+      "bookingUrl": "https://mozartmoving.com/loading-and-unloading-services-boston/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The loading-and-unloading page does not publish office or crew hours. Call to check availability."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "U-Haul loading and unloading",
+        "Container and storage unit loading"
+      ],
+      "offersNotes": "The official page offers labor-only moving help for customers who already have a rental truck, trailer, pod, or storage container — “You handle the driving, and our movers handle the lifting” — including U-Haul loading and unloading help.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "Confirm crew availability and the quote for your date before you pick up the truck.",
+      "feeNotes": "No labor rates published on the loading-and-unloading page we checked.",
+      "sources": [
+        {
+          "label": "Mozart Movers loading and unloading page",
+          "url": "https://mozartmoving.com/loading-and-unloading-services-boston/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Continental Moving — moving labor",
+      "category": "labor",
+      "area": "Brookline · Beacon St (serves Boston)",
+      "address": "1731 Beacon St, Brookline, MA 02445",
+      "phone": "508-904-2029",
+      "website": "https://continental-moving.com/",
+      "bookingUrl": "https://continental-moving.com/moving-labor-boston/",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "The site footer on the moving-labor page says “Open 24 hours, Mon–Sun.” That likely refers to phone or booking availability; confirm crew times when you call."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Container and storage unit loading"
+      ],
+      "offersNotes": "The official moving-labor page says: “If you already have a rental truck, PODS container, or freight service, we provide the labor you need,” handling loading and unloading while the customer provides the vehicle.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Call with the vehicle type, approximate volume, building type, and preferred date, per the page. Loading and unloading at two addresses are booked as separate sessions.",
+      "feeNotes": "The page says labor-only service is billed hourly with a two-hour minimum per session, with the rate depending on crew size. No dollar rates are published on that page.",
+      "sources": [
+        {
+          "label": "Continental Moving labor page",
+          "url": "https://continental-moving.com/moving-labor-boston/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    }
+  ]
+}
