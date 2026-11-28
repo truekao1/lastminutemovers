@@ -1,0 +1,711 @@
+{
+  "slug": "ca-san-francisco",
+  "city": "San Francisco",
+  "citySlug": "san-francisco",
+  "state": "CA",
+  "stateName": "California",
+  "focus": "Truck-rental desks in San Francisco (SoMa, the Mission, Bayview, Ingleside, the Outer Sunset, Parkmerced, Treasure Island) and just south of the line in Daly City and South San Francisco — three company-run U-Haul stores, nine U-Haul neighborhood dealers, and two Penske locations — plus three labor-only options",
+  "lastUpdated": "2026-11-27",
+  "intro": "This first San Francisco page covers truck-rental locations whose official U-Haul and Penske pages list addresses in San Francisco or just south of the city line: three company-run U-Haul stores (Bryant St in SoMa, Valencia St near Market, and Bayshore Blvd by Candlestick) that all publish Sunday hours and stay open until 7:00 PM on weekdays (8:00 PM Fridays), five U-Haul neighborhood dealers in the city (Ingleside, the Outer Sunset, Parkmerced, Treasure Island, and Bayview) and four in Daly City — Halloway Market on Holloway Ave lists 9:00 AM–7:00 PM on weekdays and Sunday hours — plus the Penske desk in Bayview, whose weekday hours end at 2:00 PM, and the Penske branch in South San Francisco, which lists Sunday morning hours. Three labor-only options are included for people who already have a truck or container: Bellhop, CareMore Moving & Storage, and Royal Moving & Storage; none publishes a dollar rate on the pages we checked. Budget Truck Rental, Enterprise Truck Rental, Home Depot rental desks, Oakland locations, and other U-Haul dealers are not covered yet; one Daly City dealer that lists itself closed through December 31 was left out. The company-run U-Haul stores list 7:00 AM–3:00 PM on December 24 and closed on December 25, and several dealers list extra closures around Thanksgiving weekend and the holidays. We do not report live truck counts; one-way and cargo-van flags are on only when the location page itself mentions them.",
+  "listings": [
+    {
+      "name": "U-Haul Moving & Storage of San Francisco",
+      "category": "truck",
+      "area": "SoMa / Mission · Bryant St at Alameda",
+      "address": "1525 Bryant St, San Francisco, CA 94103",
+      "phone": "(415) 252-0133",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94103/708021/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94103/708021/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "7:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm Fri: 7 am - 8 pm Sat: 7 am - 7 pm Sun: 7 am - 5 pm. Special hours listed on the page: 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “Alameda & Bryant, the old Wonderbread Factory”."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "U-Box containers",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, U-Box® Containers, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage of San Francisco truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94103/708021/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "U-Haul Box Store of Downtown",
+      "category": "truck",
+      "area": "Mission / SoMa edge · Valencia St at Market",
+      "address": "100 Valencia St, San Francisco, CA 94103",
+      "phone": "(415) 864-3328",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94103/708054/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94103/708054/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm Fri: 7 am - 8 pm Sat: 7 am - 7 pm Sun: 9 am - 5 pm. Special hours listed on the page: 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “S Of Market”."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Box Store of Downtown truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94103/708054/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "U-Haul Moving & Storage at Candlestick",
+      "category": "truck",
+      "area": "Bayview · Bayshore Blvd",
+      "address": "1575 Bay Shore Bl, San Francisco, CA 94124",
+      "phone": "(415) 467-3830",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94124/708066/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94124/708066/",
+      "hours": {
+        "monday": "7:00 AM–7:00 PM",
+        "tuesday": "7:00 AM–7:00 PM",
+        "wednesday": "7:00 AM–7:00 PM",
+        "thursday": "7:00 AM–7:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "7:00 AM–7:00 PM",
+        "sunday": "7:00 AM–5:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Thur: 7 am - 7 pm Fri: 7 am - 8 pm Sat: 7 am - 7 pm Sun: 7 am - 5 pm. Special hours listed on the page: 12/24/2026: 7:00 am - 3:00 pm; 12/25/2026: Closed; 1/1/2027: 9:00 am - 8:00 pm. The page’s location note reads “Near Candle Stick Park Ext, on the corner of Bayshore and Paul”. The page also lists 24-hour customer return."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "Moving supplies",
+        "Trailer hitches",
+        "Propane",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage, Moving Supplies, Trailer Hitches, Propane, Trucks for Sale as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "U-Haul Moving & Storage at Candlestick truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94124/708066/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Halloway Market (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Ingleside · Holloway Ave",
+      "address": "150 Holloway Ave, San Francisco, CA 94112",
+      "phone": "(415) 494-8908",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94112/008229/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94112/008229/",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–2:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Fri: 9 am - 7 pm Sat: 9 am - 5 pm Sun: 10 am - 2 pm."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "A U-Haul neighborhood dealer (an independent business that rents U-Haul equipment); hours can be shorter than company-run stores. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Halloway Market truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94112/008229/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Postal People (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Outer Sunset · Irving St",
+      "address": "2549 Irving St, San Francisco, CA 94122",
+      "phone": "(415) 661-1506",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94122/053552/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94122/053552/",
+      "hours": {
+        "monday": "10:00 AM–6:00 PM",
+        "tuesday": "10:00 AM–6:00 PM",
+        "wednesday": "10:00 AM–6:00 PM",
+        "thursday": "10:00 AM–6:00 PM",
+        "friday": "10:00 AM–6:00 PM",
+        "saturday": "10:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Office hours from the official U-Haul location page: Mon-Fri: 10 am - 6 pm Sat: 10 am - 2 pm Sun: Closed. Special hours listed on the page: closed 11/27–11/29/2026, 12/24–12/27/2026, and 12/31/2026–1/3/2027."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "A U-Haul neighborhood dealer (an independent business that rents U-Haul equipment); hours can be shorter than company-run stores. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Postal People truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94122/053552/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Park Merced Truck Rentals & Moving Supplies (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Parkmerced · Cambon Dr",
+      "address": "47 Cambon Dr, San Francisco, CA 94132",
+      "phone": "(415) 255-0502",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94132/006350/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94132/006350/",
+      "hours": {
+        "monday": "11:00 AM–4:00 PM",
+        "tuesday": "11:00 AM–4:00 PM",
+        "wednesday": "11:00 AM–4:00 PM",
+        "thursday": "11:00 AM–4:00 PM",
+        "friday": "10:00 AM–12:45 PM, 2:30 PM–5:30 PM",
+        "saturday": "10:00 AM–5:30 PM",
+        "sunday": "10:00 AM–5:30 PM",
+        "notes": "Office hours from the official U-Haul location page: Monday - Thursday: 11 am - 4 pm Friday: 10 am - 12:45 pm / 2:30 pm - 5:30 pm Saturday - Sunday: 10 am - 5:30 pm. The page also lists 24-hour customer return."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "A U-Haul neighborhood dealer (an independent business that rents U-Haul equipment); hours can be shorter than company-run stores. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Park Merced Truck Rentals & Moving Supplies truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94132/006350/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Island Park Storage (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Treasure Island · Avenue H",
+      "address": "800 Av H, San Francisco, CA 94130",
+      "phone": "(415) 956-1395",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94130/004748/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94130/004748/",
+      "hours": {
+        "monday": "9:00 AM–5:00 PM",
+        "tuesday": "9:00 AM–5:00 PM",
+        "wednesday": "9:00 AM–5:00 PM",
+        "thursday": "9:00 AM–5:00 PM",
+        "friday": "9:00 AM–5:00 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "9:00 AM–3:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Fri: 9 am - 5 pm Sat-Sun: 9 am - 3 pm. The page also lists 24-hour customer return."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Self-storage",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Self-Storage as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "A U-Haul neighborhood dealer (an independent business that rents U-Haul equipment); hours can be shorter than company-run stores. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Island Park Storage truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94130/004748/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "San Francisco Body & Paint (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Bayview · Evans Ave",
+      "address": "1630 Evans Av, San Francisco, CA 94124",
+      "phone": "(415) 503-1964",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94124/010372/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94124/010372/",
+      "hours": {
+        "monday": "9:00 AM–4:00 PM",
+        "tuesday": "9:00 AM–4:00 PM",
+        "wednesday": "9:00 AM–4:00 PM",
+        "thursday": "9:00 AM–4:00 PM",
+        "friday": "9:00 AM–4:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "Office hours from the official U-Haul location page: Mon-Fri: 9 am - 4 pm Sat-Sun: Closed."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "A U-Haul neighborhood dealer (an independent business that rents U-Haul equipment); hours can be shorter than company-run stores. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "San Francisco Body & Paint truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-San-Francisco-CA-94124/010372/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Security Public Storage (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Daly City (just south of SF) · Carter St",
+      "address": "1101 Carter St, Daly City, CA 94014",
+      "phone": "(415) 584-5072",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/002712/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/002712/",
+      "hours": {
+        "monday": "10:00 AM–5:30 PM",
+        "tuesday": "10:00 AM–5:30 PM",
+        "wednesday": "10:00 AM–5:30 PM",
+        "thursday": "10:00 AM–5:30 PM",
+        "friday": "10:00 AM–5:30 PM",
+        "saturday": "10:00 AM–5:30 PM",
+        "sunday": "11:00 AM–3:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon-Sat: 10 am - 5:30 pm Sun: 11 am - 3 pm. The page also lists 24-hour customer return."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "A U-Haul neighborhood dealer (an independent business that rents U-Haul equipment); hours can be shorter than company-run stores. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Security Public Storage truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/002712/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Ship Daly City (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Daly City (just south of SF) · Los Olivos Ave",
+      "address": "100 Los Olivos Av, Daly City, CA 94014",
+      "phone": "(415) 287-9855",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/044382/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/044382/",
+      "hours": {
+        "monday": "9:00 AM–5:00 PM",
+        "tuesday": "9:00 AM–5:00 PM",
+        "wednesday": "9:00 AM–5:00 PM",
+        "thursday": "9:30 AM–5:00 PM",
+        "friday": "9:30 AM–5:00 PM",
+        "saturday": "10:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Office hours from the official U-Haul location page: Mon-Wed: 9 am - 5 pm Thur-Fri: 9:30 am - 5 pm Sat: 10 am - 2 pm Sun: Closed. Special hours listed on the page: closed 11/27/2026, 12/23–12/25/2026, 12/31/2026, and 1/1/2027."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "A U-Haul neighborhood dealer (an independent business that rents U-Haul equipment); hours can be shorter than company-run stores. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Ship Daly City truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/044382/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Air Lollipops (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Daly City (just south of SF) · School St",
+      "address": "202 School St, Daly City, CA 94014",
+      "phone": "(415) 799-3100",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/056415/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/056415/",
+      "hours": {
+        "monday": "Closed",
+        "tuesday": "10:30 AM–6:00 PM",
+        "wednesday": "10:30 AM–6:00 PM",
+        "thursday": "10:30 AM–6:00 PM",
+        "friday": "10:30 AM–6:00 PM",
+        "saturday": "4:00 PM–7:00 PM",
+        "sunday": "4:00 PM–7:00 PM",
+        "notes": "Office hours from the official U-Haul location page: Mon: Closed Tue-Fri: 10:30 am - 6 pm Sat-Sun: 4 pm - 7 pm. The page also lists 24-hour customer return."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "A U-Haul neighborhood dealer (an independent business that rents U-Haul equipment); hours can be shorter than company-run stores. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Air Lollipops truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/056415/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "J And K Auto Repair (U-Haul neighborhood dealer)",
+      "category": "truck",
+      "area": "Daly City (just south of SF) · San Pedro Rd",
+      "address": "280 San Pedro Rd, Daly City, CA 94014",
+      "phone": "(415) 508-3557",
+      "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/051556/",
+      "bookingUrl": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/051556/",
+      "hours": {
+        "monday": "9:00 AM–6:00 PM",
+        "tuesday": "9:00 AM–6:00 PM",
+        "wednesday": "9:00 AM–6:00 PM",
+        "thursday": "9:00 AM–6:00 PM",
+        "friday": "9:00 AM–6:00 PM",
+        "saturday": "9:00 AM–6:00 PM",
+        "sunday": "Closed",
+        "notes": "Office hours from the official U-Haul location page: Mon-Sat: 9 am - 6 pm Sun: Closed. Special hours listed on the page: closed 11/27–11/30/2026."
+      },
+      "offers": [
+        "Moving trucks",
+        "Trailers and towing",
+        "Moving supplies",
+        "One-way rentals",
+        "In-town rentals"
+      ],
+      "offersNotes": "The official location page lists Moving Trucks, Trailers & Towing, Moving Supplies as services at this location, with a search for One-Way and In-Town rentals. Cargo vans appear only in the site-wide menu, not in this location’s service list, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "A U-Haul neighborhood dealer (an independent business that rents U-Haul equipment); hours can be shorter than company-run stores. Do not treat the reservation page as live inventory. Confirm that a truck is actually available for your pickup time.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "J And K Auto Repair truck rental page",
+          "url": "https://www.uhaul.com/Locations/Truck-Rentals-near-Daly-City-CA-94014/051556/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Penske at 7 X 7 Leasing",
+      "category": "truck",
+      "area": "Bayview · Burke Ave",
+      "address": "1500 Burke Ave Unit A, San Francisco, CA 94124",
+      "phone": "415-970-0896",
+      "website": "https://www.pensketruckrental.com/locations/us/california/san_francisco/068559/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/california/san_francisco/068559/",
+      "hours": {
+        "monday": "7:00 AM–2:00 PM",
+        "tuesday": "7:00 AM–2:00 PM",
+        "wednesday": "7:00 AM–2:00 PM",
+        "thursday": "7:00 AM–2:00 PM",
+        "friday": "7:00 AM–2:00 PM",
+        "saturday": "7:00 AM–4:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours from the official Penske location page (Mon–Fri 7:00 AM–2:00 PM, Sat 7:00 AM–4:00 PM, Sun closed). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans are not listed as this location’s inventory, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "The only Penske location listed under San Francisco on Penske’s California locator. Weekday hours end at 2:00 PM. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/california/san_francisco/068559/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Penske — South San Francisco (62 S Linden Ave)",
+      "category": "truck",
+      "area": "South San Francisco (just south of SF) · S Linden Ave",
+      "address": "62 S Linden Ave, South San Francisco, CA 94080",
+      "phone": "650-873-5443",
+      "website": "https://www.pensketruckrental.com/locations/us/california/south_san_francisco/068510/",
+      "bookingUrl": "https://www.pensketruckrental.com/locations/us/california/south_san_francisco/068510/",
+      "hours": {
+        "monday": "7:00 AM–5:00 PM",
+        "tuesday": "7:00 AM–5:00 PM",
+        "wednesday": "7:00 AM–5:00 PM",
+        "thursday": "7:00 AM–5:00 PM",
+        "friday": "7:00 AM–5:00 PM",
+        "saturday": "7:00 AM–2:00 PM",
+        "sunday": "8:00 AM–12:00 PM",
+        "notes": "Hours from the official Penske location page (Mon–Fri 7:00 AM–5:00 PM, Sat 7:00 AM–2:00 PM, Sun 8:00 AM–12:00 PM). The page marks after-hours key drop as open; the printed key-drop instruction mentions a 1st Avenue lot entrance, which appears to be generic text, so confirm the drop location with the branch."
+      },
+      "offers": [
+        "Moving truck rental",
+        "One-way rentals"
+      ],
+      "offersNotes": "The official page includes a “Reserve a Truck” path and a “Looking for a one-way rental?” prompt with a phone line (1-844-824-6609). Cargo vans are not listed as this location’s inventory, so the cargo-van flag is off.",
+      "flags": {
+        "oneWay": true,
+        "laborOnly": false,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "The page does not name an operating business beyond Penske. Do not treat the reservation page as live inventory.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official Penske location page",
+          "url": "https://www.pensketruckrental.com/locations/us/california/south_san_francisco/068510/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Bellhop — San Francisco hourly moving labor",
+      "category": "labor",
+      "area": "SoMa office · New Montgomery St (serves San Francisco)",
+      "address": "149 New Montgomery St., San Francisco, CA 94105",
+      "phone": "(415) 263-9024",
+      "website": "https://www.getbellhops.com/ca/san-francisco/movers/",
+      "bookingUrl": "https://www.getbellhops.com/ca/san-francisco/movers/",
+      "hours": {
+        "monday": "8:00 AM–10:00 PM EST",
+        "tuesday": "8:00 AM–10:00 PM EST",
+        "wednesday": "8:00 AM–10:00 PM EST",
+        "thursday": "8:00 AM–10:00 PM EST",
+        "friday": "8:00 AM–10:00 PM EST",
+        "saturday": "8:00 AM–10:00 PM EST",
+        "sunday": "8:00 AM–10:00 PM EST",
+        "notes": "Hours from the footer of the official San Francisco page: Mon–Sat 8:00 AM to 10:00 PM EST, Sun 8:00 AM to 10:00 PM EST (Eastern time, which is 5:00 AM–7:00 PM Pacific)."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Storage unit and truck loading"
+      ],
+      "offersNotes": "The official San Francisco page offers “Hourly moving help and labor”: “If you don’t need transportation but could use some moving help, Bellhop’s skilled San Francisco movers make quick work of loading, unloading, and/or rearranging,” including packing a storage unit into a truck. The same page says Bellhop is a federally regulated property broker that connects customers with independent labor and/or transportation providers.",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "Bellhop describes itself as a broker, so the crew may be a partner mover. Book online or by phone and confirm crew availability for your date.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Bellhop San Francisco movers page",
+          "url": "https://www.getbellhops.com/ca/san-francisco/movers/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "CareMore Moving & Storage — labor-only moves",
+      "category": "labor",
+      "area": "Bayview · Palou Ave (serves San Francisco)",
+      "address": "925 Palou Ave, San Francisco, CA 94124",
+      "phone": "(415) 822-8547",
+      "website": "https://caremoremoving.com/",
+      "bookingUrl": "https://caremoremoving.com/services/labor-only-moves-san-francisco/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The labor-only page says “SF-based crews, 7am–7pm” but does not say which days, so day-by-day hours are left as not published. Call to confirm weekend crews."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Container and storage unit loading"
+      ],
+      "offersNotes": "The official labor-only page says crews load or unload “your rental truck, POD, container,” including U-Haul, Penske, Sprinter, POD, or storage unit, and that labor-only is crew and equipment without a truck. Licensed and insured per the page (CAL-T 0190970).",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": false,
+        "cargoVan": false
+      },
+      "visitNotes": "Request a slot by phone or the quote form; the page says it provides a free quote after a virtual or in-person tour and coordinates COIs, elevator windows, and loading zones.",
+      "feeNotes": "The page says a short hourly minimum applies and is spelled out in the estimate. No dollar rates are published on that page.",
+      "sources": [
+        {
+          "label": "CareMore labor-only page",
+          "url": "https://caremoremoving.com/services/labor-only-moves-san-francisco/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Royal Moving & Storage — labor-only movers",
+      "category": "labor",
+      "area": "Excelsior / Outer Mission · Mission St (serves San Francisco)",
+      "address": "4610 Mission St, floor 3, Unit RMC, San Francisco, CA 94112",
+      "phone": "(415) 715-1925",
+      "website": "https://royalmovingco.com/",
+      "bookingUrl": "https://royalmovingco.com/san-francisco/labor-only/",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "The site footer on the labor-only page says “Open 24 Hours.” That likely refers to phone or booking availability; confirm crew times when you call."
+      },
+      "offers": [
+        "Labor-only loading and unloading",
+        "Container and storage unit loading"
+      ],
+      "offersNotes": "The official San Francisco labor-only page says: “Already have a truck or a container and just need the muscle? Our labor-only crews load, unload, and move heavy items … without the truck. You supply the vehicle; we supply the trained hands and the equipment.”",
+      "flags": {
+        "oneWay": false,
+        "laborOnly": true,
+        "weekendHours": true,
+        "cargoVan": false
+      },
+      "visitNotes": "The footer lists a San Francisco office on Mission St and an Oakland office. Request a free estimate by phone or form.",
+      "feeNotes": "The page says labor is quoted up front based on crew size and time. No dollar rates are published on that page.",
+      "sources": [
+        {
+          "label": "Royal Moving labor-only page",
+          "url": "https://royalmovingco.com/san-francisco/labor-only/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    }
+  ]
+}
